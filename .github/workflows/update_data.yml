@@ -39,10 +39,10 @@ jobs:
       run: |
         python scripts/update_data.py
       env:
-        AIRTABLE_API_KEY: ${{ secrets.EAISEL_AIRTABLE_API_KEY }}
-        BASE_ID: ${{ secrets.EAISEL_AIRTABLE_BASE_ID }}
-        TABLE_ID: ${{ secrets.EAISEL_AIRTABLE_TABLE_ID }}
-        VIEW_ID: ${{ secrets.EAISEL_AIRTABLE_VIEW_ID }}
+        EAISEL_AIRTABLE_API_KEY: ${{ secrets.EAISEL_AIRTABLE_API_KEY }}
+        EAISEL_AIRTABLE_BASE_ID: ${{ secrets.EAISEL_AIRTABLE_BASE_ID }}
+        EAISEL_AIRTABLE_TABLE_ID: ${{ secrets.EAISEL_AIRTABLE_TABLE_ID }}
+        EAISEL_AIRTABLE_VIEW_ID: ${{ secrets.EAISEL_AIRTABLE_VIEW_ID }}
     - name: Commit changes
       uses: stefanzweifel/git-auto-commit-action@v4.x
       with:
