@@ -2,9 +2,7 @@
 layout: page
 header:
   title: Membros
-  text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+  text: 
 
 sections:
   - type: members.html
