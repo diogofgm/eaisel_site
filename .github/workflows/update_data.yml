@@ -1,0 +1,45 @@
+name: Update website data
+
+on:
+  schedule:
+    - cron: '0 0 1 * *'
+  push:
+    branches:
+      - "main"
+      - "develop"
+    tags:
+      - "v[0-9]+.[0-9]+.[0-9]+"
+    paths-ignore:
+      - '.github/**'
+      - "docs/**"
+  pull_request:
+    branches:
+      - "main"
+      - "develop"
+    paths-ignore:
+      - '.github/**'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Setup Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        pip install pyyaml requests
+
+    - name: Call Airtable API and convert to YAML
+      run: |
+        python scripts/update_data.py
+      env:
+        AIRTABLE_API_KEY: ${{ secrets.AIRTABLE_API_KEY }}
+        BASE_ID: ${{ secrets.EAISEL_AIRTABLE_BASE_ID }}
+        TABLE_ID: ${{ secrets.EAISEL_AIRTABLE_TABLE_ID }}
+        VIEW_ID: ${{ secrets.EAISEL_AIRTABLE_VIEW_ID }}
