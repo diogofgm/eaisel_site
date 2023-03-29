@@ -43,7 +43,7 @@ jobs:
         EAISEL_AIRTABLE_TABLE_ID: ${{ secrets.EAISEL_AIRTABLE_TABLE_ID }}
         EAISEL_AIRTABLE_VIEW_ID: ${{ secrets.EAISEL_AIRTABLE_VIEW_ID }}
     - name: Commit changes
-      uses: stefanzweifel/git-auto-commit-action@v4.x
+      uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: 'Update members.yml'
         file_pattern: _data/members.yml
