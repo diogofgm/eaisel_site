@@ -8,5 +8,5 @@ sections:
   - type: members.html
     section_id: members
     title: Membros
-    background_style: bg-info text-white
+    background_style: bg-dark text-white
 ---
