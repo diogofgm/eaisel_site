@@ -1,7 +1,7 @@
 ---
 layout: home
 header:
-  title: Your Favorite Source of Free Bootstrap Themes
+  title: Estudantina Académica do ISEL
   text: >
     E aqui estamos a trovar com fidalguia...
 ---
