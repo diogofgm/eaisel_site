@@ -3,7 +3,7 @@ import yaml
 import requests
 import os
 
-AIRTABLE_URL = "https://api.airtable.com/v0/"
+AIRTABLE_URL = "https://api.airtable.com/v0"
 BASE_ID = os.environ['EAISEL_AIRTABLE_BASE_ID']
 TABLE_ID = os.environ['EAISEL_AIRTABLE_TABLE_ID']
 VIEW_ID = os.environ['EAISEL_AIRTABLE_VIEW_ID']
@@ -21,7 +21,11 @@ def make_request(url, headers, params=None):
         response.raise_for_status()
         data = response.json()
         records = data.get("records")
-        offset = data.get("offset")
+        try:
+            offset = data.get("offset")
+        except:
+            offset = None
+        
         return records, offset
     except requests.exceptions.HTTPError as e:
         print("HTTP error occurred: ", e)
@@ -40,13 +44,20 @@ headers = {
 offset = None
 while True:
     records, offset = make_request(url, headers, params=params)
+    if offset is None:
+        params = {"view": VIEW_ID}
+    else:
+        params = {"view": VIEW_ID,"offset": offset}
 
     for member in records:
-        a.append(member.pop("fields"))
+        a.append(member.get("fields"))
 
     if offset is None:
         break
 
+
+
 yaml_string = yaml.dump(a, allow_unicode=True, sort_keys=False, Dumper=MyDumper)
+print(yaml_string)
 with open("_data/members.yml", "w") as f:
     f.write(yaml_string)
