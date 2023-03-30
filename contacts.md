@@ -9,8 +9,6 @@ sections:
       Queres saber mais sobre a Estudantina?
       Contacta-nos pelos seguintes canais
     actions:
-    - title: +1 (202) 555-014
-      icon: fa-phone
     - title: E-Mail
       icon: fa-envelope
       url: mailto:estudantina@alunos.isel.ipl.pt
