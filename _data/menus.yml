@@ -3,6 +3,8 @@
 # However on github-pages custom plugins are disabled, and the script doesn't
 # run. So please, fill in any custom menu entry here.
 header:
+- title: Noticias
+  url: /news
 - title: Sobre
   url: /about
 - title: Eventos
