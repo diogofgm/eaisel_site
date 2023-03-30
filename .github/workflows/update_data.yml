@@ -1,22 +1,9 @@
 name: Update website data
 
-on:
-  schedule:
-    - cron: '0 0 1 * *'
-  push:
-    branches:
-      - "main"
-      - "develop"
-    tags:
-      - "v[0-9]+.[0-9]+.[0-9]+"
-    paths-ignore:
-      - "docs/**"
-  pull_request:
-    branches:
-      - "main"
-      - "develop"
-    paths-ignore:
-      - '.github/**'
+on: workflow_dispatch
+#  schedule:
+#    - cron: '0 0 1 * *'
+
 
 jobs:
   build:
