@@ -5,11 +5,11 @@
 header:
 - title: Noticias
   url: /news
-- title: Sobre
-  url: /about
 - title: Eventos
   url: /events
 - title: Membros
   url: /members
+- title: Sobre
+  url: /about
 - title: Contactos
   url: /contacts
