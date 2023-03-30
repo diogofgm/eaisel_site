@@ -152,7 +152,7 @@
   photo: default.png
 
 - nickname: Diogo "Didi/Fashion" Silva
-  joined: '2003-03-01'
+  joined: '2004-03-01'
   status: Activo
   rank: Veterano
   last_name: Diogo Silva
@@ -256,20 +256,20 @@
   first_name: Pedro "Lolita" Sarmento
   photo: default.png
 
+- nickname: Tartaruga Genial
+  status: Activo
+  rank: Veterano
+  last_name: Mota
+  instrument: Clarinete
+  first_name: Ricardo
+  photo: default.png
+
 - nickname: Ricardo "Manso" Lourenço
   status: Activo
   rank: Veterano
   last_name: Ricardo "Manso" Lourenço
   instrument: Guitarra
   first_name: Ricardo "Manso" Lourenço
-  photo: default.png
-
-- nickname: Ricardo "Tartaruga Genial" Mota
-  status: Activo
-  rank: Veterano
-  last_name: Ricardo "Tartaruga Genial" Mota
-  instrument: Clarinete
-  first_name: Ricardo "Tartaruga Genial" Mota
   photo: default.png
 
 - nickname: Roberto "Leal" Deodato
