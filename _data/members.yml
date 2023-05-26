@@ -299,7 +299,7 @@
   last_name: Claudino
   instrument: Clarinete
   first_name: Diogo
-  photo: default.png
+  photo: diogo_claudino.png
 
 - nickname: Didi/Fashion
   status: Activo
@@ -307,7 +307,7 @@
   last_name: Silva
   instrument: Guitarra
   first_name: Diogo
-  photo: default.png
+  photo: diogo_silva.png
 
 - nickname: Hulk/Meia Tuna
   status: Activo
@@ -315,7 +315,7 @@
   last_name: ' Fernandes'
   instrument: Estandarte
   first_name: Diogo
-  photo: default.png
+  photo: diogo_fernandes.png
 
 - nickname: Xopax
   status: Activo
@@ -323,7 +323,7 @@
   last_name: Baptista
   instrument: Guitarra
   first_name: Diogo
-  photo: default.png
+  photo: diogo_baptista.png
 
 - nickname: Madeirense
   status: Activo
