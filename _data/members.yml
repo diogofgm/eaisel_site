@@ -145,7 +145,7 @@
   last_name: Marques
   instrument: Contra-Baixo
   first_name: David
-  photo: default.png
+  photo: david_marques.png
 
 - nickname: Abominavel/Nona
   status: Activo
@@ -273,7 +273,7 @@
   last_name: Mouta
   instrument: Saxofone
   first_name: João
-  photo: default.png
+  photo: joao_mouta.png
 
 - nickname: Davinte
   status: Activo
@@ -289,7 +289,7 @@
   last_name: Lopes
   instrument: Contra-Baixo
   first_name: Luis
-  photo: default.png
+  photo: luis_lopes.png
 
 - nickname: Nelo
   status: Activo
@@ -305,7 +305,7 @@
   last_name: Ribeiro
   instrument: Pandeireta
   first_name: 'Marco '
-  photo: default.png
+  photo: marco_ribeiro.png
 
 - nickname: Suardo
   status: Activo
@@ -313,7 +313,7 @@
   last_name: Gaspar
   instrument: Guitarra
   first_name: Nuno
-  photo: default.png
+  photo: nuno_gaspar.png
 
 - nickname: Bino
   status: Activo
