@@ -259,7 +259,7 @@
   last_name: Russo
   instrument: Estandarte
   first_name: Cláudio
-  photo: default.png
+  photo: claudio_russo.png
 
 - nickname: Rui Pedro
   status: Activo
@@ -395,7 +395,7 @@
   last_name: Martins
   instrument: Guitarra
   first_name: João
-  photo: default.png
+  photo: joao_pedro.png
 
 - nickname: Pistas
   status: Activo
@@ -571,7 +571,7 @@
   last_name: Grade
   instrument: Nada
   first_name: António
-  photo: default.png
+  photo: antonio_grade.png
 
 - status: Retirado
   rank: Veterano
@@ -1201,7 +1201,7 @@
   last_name: Pires
   instrument: Guitarra
   first_name: Tiago
-  photo: default.png
+  photo: tiago_pires.png
 
 - nickname: Sandokan
   status: Retirado
