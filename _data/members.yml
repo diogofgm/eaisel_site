@@ -1471,11 +1471,11 @@
   first_name: Bruno
   photo: bruno_faustino.png
 
-- photo: david_monteiro.png
-  first_name: David
-  last_name: Monteiro
+- status: Activo
   rank: Caloiro
-  status: Activo
+  last_name: Monteiro
+  first_name: David
+  photo: david_monteiro.png
 
 - nickname: Manso Jr
   status: Activo
@@ -1484,6 +1484,20 @@
   instrument: Pandeireta
   first_name: Francisco
   photo: francisco_lourenco.png
+
+- photo: guilherme_correia.png
+  first_name: Guilherme
+  last_name: Correia
+  rank: Caloiro
+  status: Activo
+  nickname: Rexona
+
+- photo: luis_catarino.png
+  first_name: Luis
+  last_name: Catarino
+  nickname: Cospe
+  rank: Caloiro
+  status: Activo
 
 - nickname: Cumeta
   status: Activo
