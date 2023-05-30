@@ -1,4 +1,25 @@
-- name: XII Fartuna
-  date: 2023-03-11
-  awards: Solista, Instrumental
-  photo:  
+- {}
+
+- event: I El Açor - Festival Internacional de Tunas
+  location: Ilha de S. Miguel
+  organizer: Tunídeos
+  date: '2000-03-11'
+
+- event: I Festival da Ordem dos Engenheiros
+  location: Lisboa
+  date: '2000-05-01'
+
+- event: I Festival Internacional de Tunas do Atlântico
+  awards:
+  - 3ª Melhor Tuna
+  - Melhor Pandeireta
+  location: Ilha da Madeira
+  organizer: Estudantina Académica da Madeira
+  date: '2001-10-06'
+
+- event: Festival Agronómico de Tunas Universitárias
+  awards:
+  - Melhor Interpretação Musical
+  location: Lisboa
+  organizer: AgriculTuna
+  date: '2001-12-07'

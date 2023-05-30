@@ -1485,19 +1485,19 @@
   first_name: Francisco
   photo: francisco_lourenco.png
 
-- photo: guilherme_correia.png
-  first_name: Guilherme
+- nickname: Rexona
+  status: Activo
+  rank: Caloiro
   last_name: Correia
-  rank: Caloiro
-  status: Activo
-  nickname: Rexona
+  first_name: Guilherme
+  photo: guilherme_correia.png
 
-- photo: luis_catarino.png
-  first_name: Luis
-  last_name: Catarino
-  nickname: Cospe
-  rank: Caloiro
+- nickname: Cospe
   status: Activo
+  rank: Caloiro
+  last_name: Catarino
+  first_name: Luis
+  photo: luis_catarino.png
 
 - nickname: Cumeta
   status: Activo
