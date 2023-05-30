@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /news/
 ---
 <ul>
   {% for post in site.posts %}
