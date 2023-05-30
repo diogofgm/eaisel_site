@@ -281,7 +281,7 @@
   last_name: Franciscatto
   instrument: Percussão
   first_name: Leonardo
-  photo: default.png
+  photo: leonardo_franciscatto.png
 
 - nickname: Obrigado
   status: Activo
@@ -393,7 +393,7 @@
   last_name: Rodrigues
   instrument: Percussão
   first_name: Simão
-  photo: default.png
+  photo: simao_rodrigues.png
 
 - nickname: Heidy
   status: Retirado
@@ -1471,6 +1471,12 @@
   first_name: Bruno
   photo: bruno_faustino.png
 
+- photo: david_monteiro.png
+  first_name: David
+  last_name: Monteiro
+  rank: Caloiro
+  status: Activo
+
 - nickname: Manso Jr
   status: Activo
   rank: Caloiro
@@ -1487,11 +1493,11 @@
   first_name: Miguel
   photo: default.png
 
-- photo: santiago_dazevedo.png
-  first_name: Santiago
-  last_name: d'Azevedo
+- status: Activo
   rank: Caloiro
-  status: Activo
+  last_name: d'Azevedo
+  first_name: Santiago
+  photo: santiago_dazevedo.png
 
 - status: Retirado
   rank: Caloiro
