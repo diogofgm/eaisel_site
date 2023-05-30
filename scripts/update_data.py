@@ -4,9 +4,18 @@ import requests
 import os
 
 AIRTABLE_URL = "https://api.airtable.com/v0"
-BASE_ID = os.environ['EAISEL_AIRTABLE_BASE_ID']
-TABLE_ID = os.environ['EAISEL_AIRTABLE_TABLE_ID']
-VIEW_ID = os.environ['EAISEL_AIRTABLE_VIEW_ID']
+
+# BASE ID
+EAISEL_BASE_ID = os.environ["EAISEL_AIRTABLE_BASE_ID"]
+
+# MEMBERS DETAILS
+MEMBERS_TABLE_ID = os.environ["EAISEL_AIRTABLE_TABLE_ID"]
+MEMBERS_VIEW_ID = os.environ["EAISEL_AIRTABLE_VIEW_ID"]
+
+# EVENTS DETAILS
+EVENTS_TABLE_ID = os.environ["EAISEL_AIRTABLE_EVENTS_TABLE_ID"]
+EVENTS_VIEW_ID = os.environ["EAISEL_AIRTABLE_EVENTS_VIEW_ID"]
+
 
 class MyDumper(yaml.SafeDumper):
     def write_line_break(self, data=None):
@@ -14,6 +23,7 @@ class MyDumper(yaml.SafeDumper):
 
         if len(self.indents) == 1:
             super().write_line_break()
+
 
 def make_request(url, headers, params=None):
     try:
@@ -25,39 +35,38 @@ def make_request(url, headers, params=None):
             offset = data.get("offset")
         except:
             offset = None
-        
         return records, offset
     except requests.exceptions.HTTPError as e:
         print("HTTP error occurred: ", e)
     except Exception as e:
         print("Other error occurred: ", e)
 
-a = []
 
-url = f"{AIRTABLE_URL}/{BASE_ID}/{TABLE_ID}"
-params = {"view": VIEW_ID}
+def get_data(node, base_id, table_id, view_id):
+    a = []
+    url = f"{AIRTABLE_URL}/{base_id}/{table_id}"
+    params = {"view": view_id}
+    headers = {"Authorization": "Bearer " + os.environ["EAISEL_AIRTABLE_API_KEY"]}
 
-headers = {
-    'Authorization': 'Bearer ' + os.environ['EAISEL_AIRTABLE_API_KEY']
-}
+    offset = None
+    while True:
+        records, offset = make_request(url, headers, params=params)
+        if offset is None:
+            params = {"view": view_id}
+        else:
+            params = {"view": view_id, "offset": offset}
 
-offset = None
-while True:
-    records, offset = make_request(url, headers, params=params)
-    if offset is None:
-        params = {"view": VIEW_ID}
-    else:
-        params = {"view": VIEW_ID,"offset": offset}
+        for record in records:
+            a.append(record.get("fields"))
 
-    for member in records:
-        a.append(member.get("fields"))
+        if offset is None:
+            break
 
-    if offset is None:
-        break
+    yaml_string = yaml.dump(a, allow_unicode=True, sort_keys=False, Dumper=MyDumper)
+    print(yaml_string)
+    with open("_data/" + node + ".yml", "w") as f:
+        f.write(yaml_string)
 
 
-
-yaml_string = yaml.dump(a, allow_unicode=True, sort_keys=False, Dumper=MyDumper)
-print(yaml_string)
-with open("_data/members.yml", "w") as f:
-    f.write(yaml_string)
+get_data("members", EAISEL_BASE_ID, MEMBERS_TABLE_ID, MEMBERS_VIEW_ID)
+get_data("events", EAISEL_BASE_ID, EVENTS_TABLE_ID, EVENTS_VIEW_ID)
