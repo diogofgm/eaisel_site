@@ -30,8 +30,10 @@ jobs:
         EAISEL_AIRTABLE_BASE_ID: ${{ secrets.EAISEL_AIRTABLE_BASE_ID }}
         EAISEL_AIRTABLE_TABLE_ID: ${{ secrets.EAISEL_AIRTABLE_TABLE_ID }}
         EAISEL_AIRTABLE_VIEW_ID: ${{ secrets.EAISEL_AIRTABLE_VIEW_ID }}
+        EAISEL_AIRTABLE_EVENTS_TABLE_ID: ${{ secrets.EAISEL_AIRTABLE_EVENTS_TABLE_ID }}
+        EAISEL_AIRTABLE_EVENTS_VIEW_ID: ${{ secrets.EAISEL_AIRTABLE_EVENTS_VIEW_ID }}
     - name: Commit changes
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        commit_message: 'Update members.yml'
-        file_pattern: _data/members.yml
+        commit_message: 'Update site data'
+        file_pattern: _data/*.yml
