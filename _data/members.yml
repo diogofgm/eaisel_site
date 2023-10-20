@@ -1485,6 +1485,14 @@
   first_name: Francisco
   photo: francisco_lourenco.png
 
+- photo: default.png
+  first_name: Gabriel
+  last_name: Tavares
+  nickname: Dobrada
+  rank: Caloiro
+  status: Activo
+  instrument: Guitarra
+
 - nickname: Rexona
   status: Activo
   rank: Caloiro
