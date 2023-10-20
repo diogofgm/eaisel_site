@@ -1,25 +1,27 @@
-- {}
+- event: Cerimónia de Abertura do Campeonato Europeu Universitário de Rugby7
+  location: Estádio Universitário
+  organizer: Rugby7
+  date: '2023-08-28'
 
-- event: I El Açor - Festival Internacional de Tunas
-  location: Ilha de S. Miguel
-  organizer: Tunídeos
-  date: '2000-03-11'
+- event: Festas De Nossa Senhora Da Saúde 2023
+  location: Sintra
+  date: '2023-09-07'
 
-- event: I Festival da Ordem dos Engenheiros
-  location: Lisboa
-  date: '2000-05-01'
+- event: Festa da Loira
+  location: Instituto Superior de Engenharia de Lisboa
+  organizer: AEISEL
+  date: '2023-09-15'
 
-- event: I Festival Internacional de Tunas do Atlântico
-  awards:
-  - 3ª Melhor Tuna
-  - Melhor Pandeireta
-  location: Ilha da Madeira
-  organizer: Estudantina Académica da Madeira
-  date: '2001-10-06'
+- event: Dia do Idoso
+  location: Hospital de Vila Franca de Xira
+  organizer: Hospital de Vila Franca de Xira
+  date: '2023-10-01'
 
-- event: Festival Agronómico de Tunas Universitárias
-  awards:
-  - Melhor Interpretação Musical
-  location: Lisboa
-  organizer: AgriculTuna
-  date: '2001-12-07'
+- event: Missa do Caloiro
+  location: Instituto Superior de Engenharia de Lisboa
+  date: '2023-10-03'
+
+- event: Arraial Lusíada 2023
+  location: Monsantos Open Air
+  organizer: AAULL
+  date: '2023-10-12'
