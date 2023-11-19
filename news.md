@@ -1,6 +1,9 @@
 ---
 layout: page
 permalink: /news/
+header:
+  title: Noticias
+
 ---
 <ul>
   {% for post in site.posts %}
