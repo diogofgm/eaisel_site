@@ -1,3 +1,8 @@
+- event: Aniversário Continente Amadora
+  location: Amadora
+  organizer: Continente Amadora
+  date: '2023-07-07'
+
 - event: Cerimónia de Abertura do Campeonato Europeu Universitário de Rugby7
   location: Estádio Universitário
   organizer: Rugby7
@@ -25,3 +30,12 @@
   location: Monsantos Open Air
   organizer: AAULL
   date: '2023-10-12'
+
+- event: III Turbinadas
+  organizer: TADeL
+  date: '2023-10-28'
+
+- event: Estrelas ao Sábado
+  location: RTP
+  organizer: RTP
+  date: '2023-12-16'

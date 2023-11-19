@@ -107,6 +107,14 @@
   first_name: André
   photo: andre_sevinate.png
 
+- nickname: Morte Lenta
+  status: Activo
+  rank: Veterano
+  last_name: Grade
+  instrument: Nada
+  first_name: António
+  photo: antonio_grade.png
+
 - nickname: '1.1'
   status: Activo
   rank: Veterano
@@ -128,6 +136,14 @@
   rank: Veterano
   last_name: Soares
   instrument: Guitarra
+  first_name: Daniel
+  photo: default.png
+
+- nickname: FormigaZ
+  status: Activo
+  rank: Veterano
+  last_name: Almeida
+  instrument: Percussão
   first_name: Daniel
   photo: default.png
 
@@ -174,7 +190,7 @@
 - nickname: Hulk/Meia Tuna
   status: Activo
   rank: Veterano
-  last_name: ' Fernandes'
+  last_name: Fernandes
   instrument: Estandarte
   first_name: Diogo
   photo: diogo_fernandes.png
@@ -274,6 +290,22 @@
   instrument: Saxofone
   first_name: João
   photo: joao_mouta.png
+
+- nickname: Irmão do (2x)  Marco
+  status: Activo
+  rank: Veterano
+  last_name: Chaves
+  instrument: Acordeão
+  first_name: João
+  photo: joao_chaves.png
+
+- nickname: Marques de Pombal
+  status: Activo
+  rank: Veterano
+  last_name: Clemente
+  instrument: Contra-Baixo
+  first_name: João
+  photo: default.png
 
 - nickname: Davinte
   status: Activo
@@ -427,14 +459,6 @@
   first_name: André
   photo: default.png
 
-- nickname: Morte Lenta
-  status: Retirado
-  rank: Veterano
-  last_name: Grade
-  instrument: Nada
-  first_name: António
-  photo: antonio_grade.png
-
 - status: Retirado
   rank: Veterano
   last_name: Barras
@@ -496,14 +520,6 @@
   last_name: Braga
   instrument: Pandeireta
   first_name: Clife
-  photo: default.png
-
-- nickname: FormigaZ
-  status: Retirado
-  rank: Veterano
-  last_name: Almeida
-  instrument: Percussão
-  first_name: Daniel
   photo: default.png
 
 - nickname: Galinhas
@@ -762,26 +778,10 @@
   first_name: João
   photo: default.png
 
-- nickname: Irmão do (2x)  Marco
-  status: Retirado
-  rank: Veterano
-  last_name: Chaves
-  instrument: Acordeão
-  first_name: João
-  photo: joao_chaves.png
-
 - status: Retirado
   rank: Veterano
   last_name: Zurzica
   instrument: Guitarra
-  first_name: João
-  photo: default.png
-
-- nickname: Marques de Pombal
-  status: Retirado
-  rank: Veterano
-  last_name: Clemente
-  instrument: Contra-Baixo
   first_name: João
   photo: default.png
 
@@ -1271,190 +1271,6 @@
   first_name: Luis
   photo: default.png
 
-- nickname: Bruxo
-  rank: Caloiro
-  last_name: Pereira
-  instrument: Saxofone
-  first_name: André
-  photo: default.png
-
-- nickname: Dinísio
-  rank: Caloiro
-  last_name: Santos
-  instrument: Percussão
-  first_name: André
-  photo: default.png
-
-- nickname: Bocage
-  rank: Caloiro
-  last_name: Aleixo
-  instrument: Bandola
-  first_name: Bruno
-  photo: default.png
-
-- nickname: Fardas
-  rank: Caloiro
-  last_name: Pinho
-  instrument: Percussão
-  first_name: Bruno
-  photo: default.png
-
-- nickname: Parvalheira
-  rank: Caloiro
-  last_name: Oliveira
-  instrument: Bandolim
-  first_name: Bruno
-  photo: default.png
-
-- nickname: Zelda
-  rank: Caloiro
-  last_name: Lourenço
-  instrument: Flauta
-  first_name: David
-  photo: default.png
-
-- nickname: Puto Crazy
-  rank: Caloiro
-  last_name: Esteves
-  instrument: Bandolim
-  first_name: Diogo
-  photo: default.png
-
-- nickname: Justinho
-  rank: Caloiro
-  last_name: Justino
-  instrument: Bandolim
-  first_name: Diogo
-  photo: default.png
-
-- nickname: Jack Rufus
-  rank: Caloiro
-  last_name: Sousa
-  instrument: Pandeireta
-  first_name: Diogo
-  photo: default.png
-
-- nickname: Dentinho
-  rank: Caloiro
-  last_name: Fernandes
-  instrument: Guitarra
-  first_name: Diogo
-  photo: default.png
-
-- nickname: Bangla
-  rank: Caloiro
-  last_name: Moura
-  instrument: Acordeão
-  first_name: Fábio
-  photo: default.png
-
-- rank: Caloiro
-  last_name: Saraiva
-  instrument: Trombone
-  first_name: Gonçalo
-  photo: default.png
-
-- nickname: Bolhas
-  rank: Caloiro
-  last_name: André
-  instrument: Pandeireta
-  first_name: João
-  photo: default.png
-
-- nickname: Tablaturas
-  rank: Caloiro
-  last_name: Oliveira
-  instrument: Bandolim
-  first_name: João
-  photo: default.png
-
-- nickname: Mathias
-  rank: Caloiro
-  last_name: Fernandes
-  instrument: Guitarra
-  first_name: João
-  photo: default.png
-
-- nickname: Savimbi
-  rank: Caloiro
-  last_name: Sousa
-  instrument: Pandeireta
-  first_name: João
-  photo: default.png
-
-- rank: Caloiro
-  last_name: Inácio
-  instrument: Percussão
-  first_name: João
-  photo: default.png
-
-- rank: Caloiro
-  last_name: Galaio
-  instrument: Guitarra
-  first_name: Levi
-  photo: default.png
-
-- nickname: Carocho
-  rank: Caloiro
-  last_name: Dias
-  instrument: Guitarra
-  first_name: Miguel
-  photo: default.png
-
-- nickname: Tilt
-  rank: Caloiro
-  last_name: Moura
-  instrument: Bandolim
-  first_name: Nuno
-  photo: default.png
-
-- nickname: Beethoven
-  rank: Caloiro
-  last_name: Rodrigues
-  instrument: Percussão
-  first_name: Nuno
-  photo: default.png
-
-- nickname: Ect
-  rank: Caloiro
-  last_name: Sena
-  instrument: Estandarte
-  first_name: Nuno
-  photo: default.png
-
-- nickname: Népias
-  rank: Caloiro
-  last_name: Fernandes
-  instrument: Pandeireta
-  first_name: Nuno
-  photo: default.png
-
-- nickname: Castelo
-  rank: Caloiro
-  last_name: Monteiro
-  instrument: Percussão
-  first_name: Pedro
-  photo: default.png
-
-- nickname: Bloqueado
-  rank: Caloiro
-  last_name: Monteiro
-  instrument: Guitarra
-  first_name: Rúben
-  photo: default.png
-
-- nickname: Cabaço
-  rank: Caloiro
-  last_name: Mendes 
-  first_name: Sergio
-  photo: default.png
-
-- rank: Caloiro
-  last_name: Bernardino
-  instrument: Guitarra
-  first_name: Zé
-  photo: default.png
-
 - nickname: Mini Hulk
   status: Activo
   rank: Caloiro
@@ -1474,6 +1290,7 @@
 - status: Activo
   rank: Caloiro
   last_name: Monteiro
+  instrument: Percussão
   first_name: David
   photo: david_monteiro.png
 
@@ -1485,13 +1302,13 @@
   first_name: Francisco
   photo: francisco_lourenco.png
 
-- photo: default.png
-  first_name: Gabriel
-  last_name: Tavares
-  nickname: Dobrada
-  rank: Caloiro
+- nickname: Dobrada
   status: Activo
+  rank: Caloiro
+  last_name: Tavares
   instrument: Guitarra
+  first_name: Gabriel
+  photo: default.png
 
 - nickname: Rexona
   status: Activo
@@ -1518,14 +1335,55 @@
 - status: Activo
   rank: Caloiro
   last_name: d'Azevedo
+  instrument: Contra-Baixo
   first_name: Santiago
   photo: santiago_dazevedo.png
+
+- nickname: Bruxo
+  status: Retirado
+  rank: Caloiro
+  last_name: Pereira
+  instrument: Saxofone
+  first_name: André
+  photo: default.png
+
+- nickname: Dinísio
+  status: Retirado
+  rank: Caloiro
+  last_name: Santos
+  instrument: Percussão
+  first_name: André
+  photo: default.png
 
 - status: Retirado
   rank: Caloiro
   last_name: Uğur Algül
   instrument: Contra-Baixo
   first_name: Baran
+  photo: default.png
+
+- nickname: Bocage
+  status: Retirado
+  rank: Caloiro
+  last_name: Aleixo
+  instrument: Bandola
+  first_name: Bruno
+  photo: default.png
+
+- nickname: Fardas
+  status: Retirado
+  rank: Caloiro
+  last_name: Pinho
+  instrument: Percussão
+  first_name: Bruno
+  photo: default.png
+
+- nickname: Parvalheira
+  status: Retirado
+  rank: Caloiro
+  last_name: Oliveira
+  instrument: Bandolim
+  first_name: Bruno
   photo: default.png
 
 - nickname: Lelo
@@ -1542,6 +1400,46 @@
   last_name: Estácio
   instrument: Pandeireta
   first_name: David
+  photo: default.png
+
+- nickname: Zelda
+  status: Retirado
+  rank: Caloiro
+  last_name: Lourenço
+  instrument: Flauta
+  first_name: David
+  photo: default.png
+
+- nickname: Puto Crazy
+  status: Retirado
+  rank: Caloiro
+  last_name: Esteves
+  instrument: Bandolim
+  first_name: Diogo
+  photo: default.png
+
+- nickname: Justinho
+  status: Retirado
+  rank: Caloiro
+  last_name: Justino
+  instrument: Bandolim
+  first_name: Diogo
+  photo: default.png
+
+- nickname: Jack Rufus
+  status: Retirado
+  rank: Caloiro
+  last_name: Sousa
+  instrument: Pandeireta
+  first_name: Diogo
+  photo: default.png
+
+- nickname: Dentinho
+  status: Retirado
+  rank: Caloiro
+  last_name: Fernandes
+  instrument: Guitarra
+  first_name: Diogo
   photo: default.png
 
 - nickname: Nemo
@@ -1575,6 +1473,14 @@
   first_name: Fabio
   photo: default.png
 
+- nickname: Bangla
+  status: Retirado
+  rank: Caloiro
+  last_name: Moura
+  instrument: Acordeão
+  first_name: Fábio
+  photo: default.png
+
 - nickname: Técnico
   status: Retirado
   rank: Caloiro
@@ -1587,6 +1493,13 @@
   rank: Caloiro
   last_name: Costa
   instrument: Guitarra
+  first_name: Gonçalo
+  photo: default.png
+
+- status: Retirado
+  rank: Caloiro
+  last_name: Saraiva
+  instrument: Trombone
   first_name: Gonçalo
   photo: default.png
 
@@ -1621,6 +1534,14 @@
   first_name: João
   photo: default.png
 
+- nickname: Bolhas
+  status: Retirado
+  rank: Caloiro
+  last_name: André
+  instrument: Pandeireta
+  first_name: João
+  photo: default.png
+
 - nickname: BS
   status: Retirado
   rank: Caloiro
@@ -1637,11 +1558,27 @@
   first_name: João
   photo: default.png
 
+- nickname: Tablaturas
+  status: Retirado
+  rank: Caloiro
+  last_name: Oliveira
+  instrument: Bandolim
+  first_name: João
+  photo: default.png
+
 - nickname: Ken
   status: Retirado
   rank: Caloiro
   last_name: Esteves
   instrument: Estandarte
+  first_name: João
+  photo: default.png
+
+- nickname: Mathias
+  status: Retirado
+  rank: Caloiro
+  last_name: Fernandes
+  instrument: Guitarra
   first_name: João
   photo: default.png
 
@@ -1653,12 +1590,34 @@
   first_name: João
   photo: default.png
 
+- nickname: Savimbi
+  status: Retirado
+  rank: Caloiro
+  last_name: Sousa
+  instrument: Pandeireta
+  first_name: João
+  photo: default.png
+
 - nickname: Shrek
   status: Retirado
   rank: Caloiro
   last_name: Nunes
   instrument: Cavaquinho
   first_name: João
+  photo: default.png
+
+- status: Retirado
+  rank: Caloiro
+  last_name: Inácio
+  instrument: Percussão
+  first_name: João
+  photo: default.png
+
+- status: Retirado
+  rank: Caloiro
+  last_name: Galaio
+  instrument: Guitarra
+  first_name: Levi
   photo: default.png
 
 - nickname: Reka
@@ -1677,11 +1636,51 @@
   first_name: Luis
   photo: default.png
 
+- nickname: Carocho
+  status: Retirado
+  rank: Caloiro
+  last_name: Dias
+  instrument: Guitarra
+  first_name: Miguel
+  photo: default.png
+
+- nickname: Tilt
+  status: Retirado
+  rank: Caloiro
+  last_name: Moura
+  instrument: Bandolim
+  first_name: Nuno
+  photo: default.png
+
+- nickname: Beethoven
+  status: Retirado
+  rank: Caloiro
+  last_name: Rodrigues
+  instrument: Percussão
+  first_name: Nuno
+  photo: default.png
+
 - nickname: Maxi
   status: Retirado
   rank: Caloiro
   last_name: Veloso
   instrument: Percussão
+  first_name: Nuno
+  photo: default.png
+
+- nickname: Ect
+  status: Retirado
+  rank: Caloiro
+  last_name: Sena
+  instrument: Estandarte
+  first_name: Nuno
+  photo: default.png
+
+- nickname: Népias
+  status: Retirado
+  rank: Caloiro
+  last_name: Fernandes
+  instrument: Pandeireta
   first_name: Nuno
   photo: default.png
 
@@ -1698,6 +1697,14 @@
   rank: Caloiro
   last_name: Menezes
   instrument: Guitarra
+  first_name: Pedro
+  photo: default.png
+
+- nickname: Castelo
+  status: Retirado
+  rank: Caloiro
+  last_name: Monteiro
+  instrument: Percussão
   first_name: Pedro
   photo: default.png
 
@@ -1730,6 +1737,21 @@
   last_name: Santos
   instrument: Guitarra
   first_name: Ruben
+  photo: default.png
+
+- nickname: Bloqueado
+  status: Retirado
+  rank: Caloiro
+  last_name: Monteiro
+  instrument: Guitarra
+  first_name: Rúben
+  photo: default.png
+
+- nickname: Cabaço
+  status: Retirado
+  rank: Caloiro
+  last_name: Mendes 
+  first_name: Sergio
   photo: default.png
 
 - nickname: Projecto Pah
@@ -1770,6 +1792,13 @@
   last_name: Pinheiro
   instrument: Estandarte
   first_name: Wilson
+  photo: default.png
+
+- status: Retirado
+  rank: Caloiro
+  last_name: Bernardino
+  instrument: Guitarra
+  first_name: Zé
   photo: default.png
 
 - status: Retirado
