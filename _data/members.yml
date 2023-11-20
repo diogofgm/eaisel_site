@@ -1,11 +1,13 @@
-- status: Retirado
+- joined: 1997-03
+  status: Retirado
   rank: Fundador
   last_name: Maia
   instrument: Braguesa
   first_name: Carlos
   photo: default.png
 
-- status: Retirado
+- joined: 1997-03
+  status: Retirado
   rank: Fundador
   last_name: Ramos
   instrument: Cavaquinho
@@ -13,6 +15,7 @@
   photo: default.png
 
 - nickname: Danni
+  joined: 1997-03
   status: Retirado
   rank: Fundador
   last_name: Rocha
@@ -21,6 +24,7 @@
   photo: default.png
 
 - nickname: EL Pablo
+  joined: 1997-03
   status: Retirado
   rank: Fundador
   last_name: Lopés
@@ -29,6 +33,7 @@
   photo: default.png
 
 - nickname: Bêbado
+  joined: 1997-03
   status: Retirado
   rank: Fundador
   last_name: Amorous
@@ -37,6 +42,7 @@
   photo: default.png
 
 - nickname: Sebes
+  joined: 1997-03
   status: Retirado
   rank: Fundador
   last_name: Simão
@@ -45,6 +51,7 @@
   photo: default.png
 
 - nickname: Pica-Miolos
+  joined: 1997-03
   status: Retirado
   rank: Fundador
   last_name: Sousa
@@ -52,7 +59,8 @@
   first_name: Júlio
   photo: default.png
 
-- status: Retirado
+- joined: 1997-03
+  status: Retirado
   rank: Fundador
   last_name: Serafim
   instrument: Percussão
@@ -60,6 +68,7 @@
   photo: default.png
 
 - nickname: Giga
+  joined: 1997-03
   status: Retirado
   rank: Fundador
   last_name: Pereira
@@ -68,6 +77,7 @@
   photo: default.png
 
 - nickname: Imperial
+  joined: 1997-03
   status: Retirado
   rank: Fundador
   last_name: Gomes
@@ -76,6 +86,7 @@
   photo: default.png
 
 - nickname: Ex-Magister
+  joined: 1997-03
   status: Retirado
   rank: Fundador
   last_name: Martins
@@ -84,6 +95,7 @@
   photo: default.png
 
 - nickname: Marisco
+  joined: 1997-03
   status: Retirado
   rank: Fundador
   last_name: Maia
@@ -116,6 +128,7 @@
   photo: antonio_grade.png
 
 - nickname: '1.1'
+  joined: 2017-04
   status: Activo
   rank: Veterano
   last_name: Morgado
@@ -180,6 +193,7 @@
   photo: diogo_claudino.png
 
 - nickname: Didi/Fashion
+  joined: 2004-03
   status: Activo
   rank: Veterano
   last_name: Silva
@@ -340,10 +354,11 @@
   photo: marco_ribeiro.png
 
 - nickname: Suardo
+  joined: 2015-05
   status: Activo
   rank: Veterano
   last_name: Gaspar
-  instrument: Guitarra
+  instrument: Bandolim
   first_name: Nuno
   photo: nuno_gaspar.png
 
@@ -698,7 +713,7 @@
   first_name: Hugo
   photo: default.png
 
-- nickname: Irmãox2(Irmão do Marco)
+- nickname: Irmão x2(Irmão do Marco)
   status: Retirado
   rank: Veterano
   last_name: Duque
@@ -1089,6 +1104,7 @@
   photo: default.png
 
 - nickname: Rena
+  joined: 2004-03
   status: Retirado
   rank: Veterano
   last_name: Duarte
@@ -1271,6 +1287,14 @@
   first_name: Luis
   photo: default.png
 
+- photo: default.png
+  first_name: Afonso
+  last_name: Encarnação
+  nickname: O Povoador
+  rank: Caloiro
+  status: Activo
+  instrument: Bandolim
+
 - nickname: Mini Hulk
   status: Activo
   rank: Caloiro
@@ -1293,8 +1317,17 @@
   instrument: Percussão
   first_name: David
   photo: david_monteiro.png
+  nickname: Golias
 
-- nickname: Manso Jr
+- photo: default.png
+  first_name: Diogo
+  last_name: Roxo
+  nickname: Ambrósio
+  rank: Caloiro
+  status: Activo
+  instrument: Guitarra
+
+- nickname: Mini Manso
   status: Activo
   rank: Caloiro
   last_name: Lourenço
