@@ -1287,13 +1287,13 @@
   first_name: Luis
   photo: default.png
 
-- photo: default.png
-  first_name: Afonso
-  last_name: Encarnação
-  nickname: O Povoador
-  rank: Caloiro
+- nickname: O Povoador
   status: Activo
+  rank: Caloiro
+  last_name: Encarnação
   instrument: Bandolim
+  first_name: Afonso
+  photo: default.png
 
 - nickname: Mini Hulk
   status: Activo
@@ -1311,21 +1311,21 @@
   first_name: Bruno
   photo: bruno_faustino.png
 
-- status: Activo
+- nickname: Botões
+  status: Activo
   rank: Caloiro
   last_name: Monteiro
   instrument: Percussão
   first_name: David
   photo: david_monteiro.png
-  nickname: Golias
 
-- photo: default.png
-  first_name: Diogo
-  last_name: Roxo
-  nickname: Ambrósio
-  rank: Caloiro
+- nickname: Ambrósio
   status: Activo
+  rank: Caloiro
+  last_name: Roxo
   instrument: Guitarra
+  first_name: Diogo
+  photo: default.png
 
 - nickname: Mini Manso
   status: Activo
