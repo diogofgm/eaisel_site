@@ -127,9 +127,19 @@
   first_name: António
   photo: antonio_grade.png
 
+- nickname: Perú/Nazareno
+  status: Activo
+  rank: Veterano
+  last_name: Faustino
+  instrument: Percussão
+  first_name: Bruno
+  photo: bruno_faustino.png
+
 - nickname: '1.1'
   joined: 2017-04
   status: Activo
+  eaisel_users:
+  - recjlq7Cve8tk7Psg
   rank: Veterano
   last_name: Morgado
   instrument: Estandarte
@@ -1302,14 +1312,6 @@
   instrument: Estandarte
   first_name: André
   photo: default.png
-
-- nickname: Perú/Nazareno
-  status: Activo
-  rank: Caloiro
-  last_name: Faustino
-  instrument: Percussão
-  first_name: Bruno
-  photo: bruno_faustino.png
 
 - nickname: Botões
   status: Activo
