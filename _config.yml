@@ -23,7 +23,7 @@ email: estudantina@alunos.isel.ipl.pt
 description: >- # this means to ignore newlines until "baseurl:"
   Estudantina Académica do ISEL
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://eaisel.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://eaisel.pt" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: eaisel
 facebook_username: estudantinaacademicaisel
 github_username:  eaisel
