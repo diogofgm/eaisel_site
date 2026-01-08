@@ -1,1856 +1,1856 @@
-- joined: 1997-03
-  status: Retirado
-  rank: Fundador
-  last_name: Maia
-  instrument: Braguesa
-  first_name: Carlos
-  photo: default.png
-
-- joined: 1997-03
-  status: Retirado
-  rank: Fundador
-  last_name: Ramos
-  instrument: Cavaquinho
-  first_name: Carlos
-  photo: default.png
-
-- nickname: Danni
-  joined: 1997-03
-  status: Retirado
-  rank: Fundador
-  last_name: Rocha
-  instrument: Adufe
-  first_name: Daniel
-  photo: default.png
-
-- nickname: EL Pablo
-  joined: 1997-03
-  status: Retirado
-  rank: Fundador
-  last_name: Lopés
-  instrument: Bandolim
-  first_name: Daniel
-  photo: default.png
-
-- nickname: Bêbado
-  joined: 1997-03
-  status: Retirado
-  rank: Fundador
-  last_name: Amorous
-  instrument: Estandarte
-  first_name: Filipe
-  photo: default.png
-
-- nickname: Sebes
-  joined: 1997-03
-  status: Retirado
-  rank: Fundador
-  last_name: Simão
-  instrument: Voz
-  first_name: José
-  photo: default.png
-
-- nickname: Pica-Miolos
-  joined: 1997-03
-  status: Retirado
-  rank: Fundador
-  last_name: Sousa
-  instrument: Percussão
-  first_name: Júlio
-  photo: default.png
-
-- joined: 1997-03
-  status: Retirado
-  rank: Fundador
-  last_name: Serafim
-  instrument: Percussão
-  first_name: Mário
-  photo: default.png
-
-- nickname: Giga
-  joined: 1997-03
-  status: Retirado
-  rank: Fundador
-  last_name: Pereira
-  instrument: Pandeireta
-  first_name: Miguel
-  photo: default.png
-
-- nickname: Imperial
-  joined: 1997-03
-  status: Retirado
-  rank: Fundador
-  last_name: Gomes
-  instrument: Bandolim
-  first_name: Miguel
-  photo: default.png
-
-- nickname: Ex-Magister
-  joined: 1997-03
-  status: Retirado
-  rank: Fundador
-  last_name: Martins
-  instrument: Guitarra
-  first_name: Nuno
-  photo: default.png
-
-- nickname: Marisco
-  joined: 1997-03
-  status: Retirado
-  rank: Fundador
-  last_name: Maia
-  instrument: Bandolim
-  first_name: Rui
-  photo: default.png
-
-- nickname: Cenoura
-  status: Activo
+- first_name: André
   rank: Veterano
-  last_name: Costa
-  instrument: Estandarte
-  first_name: André
-  photo: default.png
-
-- nickname: Hendrix
   status: Activo
-  rank: Veterano
-  last_name: Pereira
   instrument: Guitarra
-  first_name: André
+  nickname: Hendrix
+  last_name: Pereira
   photo: andre_sevinate.png
 
-- nickname: Morte Lenta
-  status: Activo
+- first_name: António
   rank: Veterano
-  last_name: Grade
+  status: Activo
   instrument: Nada
-  first_name: António
+  nickname: Morte Lenta
+  last_name: Grade
   photo: antonio_grade.png
 
-- nickname: Perú/Nazareno
-  status: Activo
+- first_name: Bruno
   rank: Veterano
-  last_name: Faustino
+  status: Activo
   instrument: Percussão
-  first_name: Bruno
+  nickname: Perú/Nazareno
+  last_name: Faustino
   photo: bruno_faustino.png
 
-- nickname: '1.1'
-  joined: 2017-04
+- first_name: Carlos
+  rank: Veterano
   status: Activo
+  instrument: Estandarte
+  nickname: '1.1'
+  joined: 2017-04
+  last_name: Morgado
+  photo: carlos_morgado.png
   eaisel_users:
   - recjlq7Cve8tk7Psg
-  rank: Veterano
-  last_name: Morgado
-  instrument: Estandarte
-  first_name: Carlos
-  photo: carlos_morgado.png
 
-- nickname: Putin
-  status: Activo
+- first_name: Cláudio
   rank: Veterano
-  last_name: Russo
+  status: Activo
   instrument: Estandarte
-  first_name: Cláudio
+  nickname: Putin
+  last_name: Russo
   photo: claudio_russo.png
 
-- nickname: Rui Pedro
-  status: Activo
+- first_name: Daniel
   rank: Veterano
-  last_name: Soares
-  instrument: Guitarra
-  first_name: Daniel
-  photo: default.png
-
-- nickname: FormigaZ
-  status: Activo
-  rank: Veterano
-  last_name: Almeida
-  instrument: Percussão
-  first_name: Daniel
-  photo: default.png
-
-- nickname: Il Divo
-  status: Activo
-  rank: Veterano
-  last_name: Fragoeiro
+  status: Retirado
   instrument: Estandarte
-  first_name: 'Daniel '
-  photo: default.png
-
-- nickname: Novilho
-  status: Activo
-  rank: Veterano
-  last_name: Marques
-  instrument: Contra-Baixo
-  first_name: David
-  photo: david_marques.png
-
-- nickname: Abominavel/Nona
-  status: Activo
-  rank: Veterano
-  last_name: Neves
-  instrument: Bandolim
-  first_name: David
-  photo: david_neves.png
-
-- nickname: Abel
-  status: Activo
-  rank: Veterano
-  last_name: Claudino
-  instrument: Clarinete
-  first_name: Diogo
-  photo: diogo_claudino.png
-
-- nickname: Didi/Fashion
-  joined: 2004-03
-  status: Activo
-  rank: Veterano
-  last_name: Silva
-  instrument: Guitarra
-  first_name: Diogo
-  photo: diogo_silva.png
-
-- nickname: Hulk/Meia Tuna
-  status: Activo
-  rank: Veterano
-  last_name: Fernandes
-  instrument: Estandarte
-  first_name: Diogo
-  photo: diogo_fernandes.png
-
-- nickname: Xopax
-  status: Activo
-  rank: Veterano
-  last_name: Baptista
-  instrument: Guitarra
-  first_name: Diogo
-  photo: diogo_baptista.png
-
-- nickname: Madeirense
-  status: Activo
-  rank: Veterano
-  last_name: Pavão
-  instrument: Pandeireta
-  first_name: Duarte
-  photo: default.png
-
-- nickname: Vítor
-  status: Activo
-  rank: Veterano
-  last_name: Espadinha
-  instrument: Violino
-  first_name: Francisco
-  photo: francisco_espadinha.png
-
-- nickname: Buggs
-  status: Activo
-  rank: Veterano
-  last_name: Coelho
-  instrument: Guitarra
-  first_name: Gonçalo
-  photo: default.png
-
-- nickname: Pepe
-  status: Activo
-  rank: Veterano
-  last_name: Kong
-  instrument: Nada
-  first_name: Hugo
-  photo: default.png
-
-- nickname: 3/4 de uma Esquina Oblíca aka Berlaites
-  status: Activo
-  rank: Veterano
-  last_name: Lopes
-  instrument: Guitarra
-  first_name: João
-  photo: default.png
-
-- nickname: Anon
-  status: Activo
-  rank: Veterano
-  last_name: Rocha
-  instrument: Guitarra
-  first_name: João
-  photo: default.png
-
-- nickname: Bispo
-  status: Activo
-  rank: Veterano
-  last_name: Benedito
-  instrument: Cavaquinho
-  first_name: João
-  photo: joao_pedro_benedito.png
-
-- nickname: Griffin
-  status: Activo
-  rank: Veterano
-  last_name: Almeida
-  instrument: Bandolim
-  first_name: João
-  photo: joao_almeida.png
-
-- nickname: Kill Billis
-  status: Activo
-  rank: Veterano
-  last_name: Martins
-  instrument: Guitarra
-  first_name: João
-  photo: joao_pedro.png
-
-- nickname: Pistas
-  status: Activo
-  rank: Veterano
-  last_name: Pereira
-  instrument: Guitarra
-  first_name: João
-  photo: default.png
-
-- nickname: Xorão
-  status: Activo
-  rank: Veterano
-  last_name: Mouta
-  instrument: Saxofone
-  first_name: João
-  photo: joao_mouta.png
-
-- nickname: Irmão do (2x)  Marco
-  status: Activo
-  rank: Veterano
-  last_name: Chaves
-  instrument: Acordeão
-  first_name: João
-  photo: joao_chaves.png
-
-- nickname: Marques de Pombal
-  status: Activo
-  rank: Veterano
-  last_name: Clemente
-  instrument: Contra-Baixo
-  first_name: João
-  photo: default.png
-
-- nickname: Davinte
-  status: Activo
-  rank: Veterano
-  last_name: Franciscatto
-  instrument: Percussão
-  first_name: Leonardo
-  photo: leonardo_franciscatto.png
-
-- nickname: Obrigado
-  status: Activo
-  rank: Veterano
-  last_name: Lopes
-  instrument: Contra-Baixo
-  first_name: Luis
-  photo: luis_lopes.png
-
-- nickname: Nelo
-  status: Activo
-  rank: Veterano
-  last_name: Rocha
-  instrument: Acordeão
-  first_name: Manuel
-  photo: default.png
-
-- nickname: Geodésico
-  status: Activo
-  rank: Veterano
-  last_name: Ribeiro
-  instrument: Pandeireta
-  first_name: 'Marco '
-  photo: marco_ribeiro.png
-
-- nickname: Suardo
-  joined: 2015-05
-  status: Activo
-  rank: Veterano
-  last_name: Gaspar
-  instrument: Bandolim
-  first_name: Nuno
-  photo: nuno_gaspar.png
-
-- nickname: Bino
-  status: Activo
-  rank: Veterano
-  last_name: Moreira
-  instrument: Guitarra
-  first_name: Paulo
-  photo: default.png
-
-- nickname: Lolita
-  status: Activo
-  rank: Veterano
-  last_name: Sarmento
-  instrument: Bandolim
-  first_name: Pedro
-  photo: default.png
-
-- nickname: Desculpas
-  status: Activo
-  rank: Veterano
-  last_name: Lopes
-  instrument: Cavaquinho
-  first_name: Ricardo
-  photo: default.png
-
-- nickname: Jiaho
-  status: Activo
-  rank: Veterano
-  last_name: Pinho
-  instrument: Pandeireta
-  first_name: Ricardo
-  photo: ricardo_pinho.png
-
-- nickname: Manso
-  status: Activo
-  rank: Veterano
-  last_name: Lourenço
-  instrument: Guitarra
-  first_name: Ricardo
-  photo: ricardo_manso.png
-
-- nickname: Tartaruga Genial
-  status: Activo
-  rank: Veterano
-  last_name: Mota
-  instrument: Clarinete
-  first_name: Ricardo
-  photo: default.png
-
-- nickname: Leal
-  status: Activo
-  rank: Veterano
-  last_name: Deodato
-  instrument: Guitarra
-  first_name: Roberto
-  photo: roberto_deodato.png
-
-- nickname: Veado
-  status: Activo
-  rank: Veterano
+  nickname: Freio
   last_name: Teixeira
-  instrument: Contra-Baixo
-  first_name: Rodolfo
-  photo: rodolfo_teixeira.png
-
-- nickname: Mad eye
-  status: Activo
-  rank: Veterano
-  last_name: Correia
-  instrument: Estandarte
-  first_name: Sebastião
-  photo: default.png
-
-- nickname: Teco
-  status: Activo
-  rank: Veterano
-  last_name: Rodrigues
-  instrument: Percussão
-  first_name: Simão
-  photo: simao_rodrigues.png
-
-- nickname: Heidy
-  status: Retirado
-  rank: Veterano
-  last_name: Rodrigues
-  instrument: Pandeireta
-  first_name: Afonso
-  photo: default.png
-
-- nickname: Grande
-  status: Retirado
-  rank: Veterano
-  last_name: Gomes
-  instrument: Guitarra
-  first_name: André
-  photo: default.png
-
-- nickname: Mimosa
-  status: Retirado
-  rank: Veterano
-  last_name: Pimenta
-  instrument: Pandeireta
-  first_name: André
-  photo: default.png
-
-- nickname: Topogigio
-  status: Retirado
-  rank: Veterano
-  last_name: Reis
-  instrument: Bandolim
-  first_name: André
-  photo: default.png
-
-- status: Retirado
-  rank: Veterano
-  last_name: Barras
-  instrument: Braguesa
-  first_name: António
-  photo: default.png
-
-- nickname: Carocha
-  status: Retirado
-  rank: Veterano
-  last_name: Nunes
-  instrument: Estandarte
-  first_name: Bernardo
-  photo: default.png
-
-- nickname: Paste
-  status: Retirado
-  rank: Veterano
-  last_name: Peixoto
-  instrument: Guitarra
-  first_name: Bruno
-  photo: default.png
-
-- nickname: Xina
-  status: Retirado
-  rank: Veterano
-  last_name: Almeida
-  instrument: Bandolim
-  first_name: Bruno
-  photo: default.png
-
-- nickname: Vladimir
-  status: Retirado
-  rank: Veterano
-  last_name: Conceição
-  instrument: Bandolim
-  first_name: Carlos
-  photo: default.png
-
-- nickname: Kamikaze
-  status: Retirado
-  rank: Veterano
-  last_name: Menaia
-  instrument: Estandarte
-  first_name: Celso
-  photo: default.png
-
-- nickname: Pantera
-  status: Retirado
-  rank: Veterano
-  last_name: Oliveira
-  instrument: Acordeão
-  first_name: Cláudio
-  photo: default.png
-
-- nickname: Princesa
-  status: Retirado
-  rank: Veterano
-  last_name: Braga
-  instrument: Pandeireta
-  first_name: Clife
-  photo: default.png
-
-- nickname: Galinhas
-  status: Retirado
-  rank: Veterano
-  last_name: Xavier
-  instrument: Bandolim
-  first_name: Daniel
-  photo: default.png
-
-- nickname: Freio
-  status: Retirado
-  rank: Veterano
-  last_name: Teixeira
-  instrument: Estandarte
-  first_name: Daniel
   photo: daniel_teixeira.png
 
-- nickname: Irmão do Marco
-  status: Retirado
+- first_name: David
   rank: Veterano
-  last_name: Pernes 
-  instrument: Pandeireta
-  first_name: David
-  photo: default.png
-
-- nickname: Satan
-  status: Retirado
-  rank: Veterano
-  last_name: Miranda
-  instrument: Pandeireta
-  first_name: David
-  photo: default.png
-
-- nickname: Mural
-  status: Retirado
-  rank: Veterano
-  last_name: Vidigal
-  instrument: Guitarra
-  first_name: Diogo
-  photo: default.png
-
-- nickname: Meio Tempo
-  status: Retirado
-  rank: Veterano
-  last_name: Freitas
-  instrument: Pandeireta
-  first_name: Duarte
-  photo: default.png
-
-- nickname: Barrigas
-  status: Retirado
-  rank: Veterano
-  last_name: Madeira
+  status: Activo
   instrument: Contra-Baixo
-  first_name: Fernando
-  photo: default.png
-
-- nickname: Patilhas
-  status: Retirado
-  rank: Veterano
-  last_name: Meireles
-  instrument: Guitarra
-  first_name: Fernando
-  photo: default.png
-
-- nickname: Faíska
-  status: Retirado
-  rank: Veterano
-  last_name: Alves
-  instrument: Cavaquinho
-  first_name: Filipe
-  photo: default.png
-
-- nickname: Fundão
-  status: Retirado
-  rank: Veterano
-  last_name: Bento
-  instrument: Guitarra
-  first_name: Filipe
-  photo: default.png
-
-- nickname: Poupas
-  status: Retirado
-  rank: Veterano
-  last_name: Amaral
-  instrument: Bandolim
-  first_name: Filipe
-  photo: default.png
-
-- nickname: Pescador
-  status: Retirado
-  rank: Veterano
-  last_name: Almeida
-  instrument: Flauta
-  first_name: Flavio
-  photo: default.png
-
-- nickname: Fiona
-  status: Retirado
-  rank: Veterano
-  last_name: Canhoto
-  instrument: Percussão
-  first_name: Francisco
-  photo: default.png
-
-- nickname: Gabi
-  status: Retirado
-  rank: Veterano
-  last_name: Longo
-  instrument: Cavaquinho
-  first_name: Gabriel
-  photo: default.png
-
-- nickname: Mirra
-  status: Retirado
-  rank: Veterano
-  last_name: Maia
-  instrument: Cavaquinho
-  first_name: Gonçalo
-  photo: default.png
-
-- nickname: Selo
-  status: Retirado
-  rank: Veterano
-  last_name: Teixeira
-  instrument: Guitarra
-  first_name: Gonçalo
-  photo: default.png
-
-- nickname: WC
-  status: Retirado
-  rank: Veterano
-  last_name: Cordeiro
-  instrument: Percussão
-  first_name: Gonçalo
-  photo: default.png
-
-- nickname: Furão
-  status: Retirado
-  rank: Veterano
-  last_name: Mendes
-  instrument: Cavaquinho
-  first_name: Hélder
-  photo: default.png
-
-- nickname: Manxa Negra
-  status: Retirado
-  rank: Veterano
+  nickname: Novilho
   last_name: Marques
-  instrument: Guitarra
-  first_name: Henrique
-  photo: default.png
+  photo: david_marques.png
 
-- nickname: Gadelhas
-  status: Retirado
-  rank: Veterano
-  last_name: Ferreira
-  instrument: Guitarra
-  first_name: Hugo
-  photo: default.png
-
-- nickname: Palanka
-  status: Retirado
-  rank: Veterano
-  last_name: Carpelho
-  instrument: Pandeireta
-  first_name: Hugo
-  photo: default.png
-
-- nickname: Pikachu
-  status: Retirado
-  rank: Veterano
-  last_name: Barrento
-  instrument: Bandolim
-  first_name: Hugo
-  photo: default.png
-
-- nickname: Irmão x2(Irmão do Marco)
-  status: Retirado
-  rank: Veterano
-  last_name: Duque
-  instrument: Pandeireta
-  first_name: Hugo
-  photo: default.png
-
-- nickname: Scuba
-  status: Retirado
-  rank: Veterano
-  last_name: Gonçalves
-  instrument: Flauta
-  first_name: Ivo
-  photo: default.png
-
-- nickname: Tom Sawyer
-  status: Retirado
-  rank: Veterano
-  last_name: Fernandes
-  instrument: Guitarra
-  first_name: Ivo
-  photo: default.png
-
-- nickname: Alzheimer
-  status: Retirado
-  rank: Veterano
-  last_name: Carneiro
-  instrument: Contra-Baixo
-  first_name: João
-  photo: joao_carneiro.png
-
-- nickname: Americano
-  status: Retirado
-  rank: Veterano
-  last_name: Martins
-  instrument: Cavaquinho
-  first_name: João
-  photo: default.png
-
-- nickname: Bandolim
-  status: Retirado
-  rank: Veterano
-  last_name: Seixas
-  instrument: Bandolim
-  first_name: João
-  photo: default.png
-
-- nickname: Chop-Soy
-  status: Retirado
-  rank: Veterano
-  last_name: Augusto
-  instrument: Bandola
-  first_name: João
-  photo: default.png
-
-- nickname: Jessyka
-  status: Retirado
-  rank: Veterano
-  last_name: Belo
-  instrument: Guitarra
-  first_name: João
-  photo: default.png
-
-- nickname: Phónix
-  status: Retirado
-  rank: Veterano
-  last_name: Félix
-  instrument: Guitarra
-  first_name: João
-  photo: default.png
-
-- nickname: Ruca
-  status: Retirado
-  rank: Veterano
-  last_name: Oliveira
-  instrument: Estandarte
-  first_name: João
-  photo: default.png
-
-- status: Retirado
-  rank: Veterano
-  last_name: Zurzica
-  instrument: Guitarra
-  first_name: João
-  photo: default.png
-
-- nickname: BTT
-  status: Retirado
-  rank: Veterano
-  last_name: Alves
-  instrument: Reco Reco
-  first_name: Jorge
-  photo: default.png
-
-- nickname: Panda
-  status: Retirado
-  rank: Veterano
-  last_name: Nunes
-  instrument: Pandeireta
-  first_name: Jorge
-  photo: default.png
-
-- nickname: CowBoy
-  status: Retirado
-  rank: Veterano
-  last_name: Alegre
-  instrument: Guitarra
-  first_name: José
-  photo: default.png
-
-- nickname: Javaman
-  status: Retirado
-  rank: Veterano
-  last_name: Oliveira
-  instrument: Bandolim
-  first_name: José
-  photo: default.png
-
-- nickname: Timba
-  status: Retirado
-  rank: Veterano
-  last_name: Cancelas
-  instrument: Percussão
-  first_name: José
-  photo: default.png
-
-- nickname: Narso
-  status: Retirado
-  rank: Veterano
-  last_name: Alexandre
-  instrument: Percussão
-  first_name: Leonel
-  photo: default.png
-
-- nickname: Bombarral
-  status: Retirado
-  rank: Veterano
-  last_name: Silva
-  instrument: Percussão
-  first_name: Luis
-  photo: default.png
-
-- nickname: Conan
-  status: Retirado
-  rank: Veterano
-  last_name: Medeiro
-  instrument: Guitarra
-  first_name: Luis
-  photo: default.png
-
-- nickname: Lucky
-  status: Retirado
-  rank: Veterano
-  last_name: Pinheiro
-  instrument: Estandarte
-  first_name: Luis
-  photo: default.png
-
-- nickname: Xabregas
-  status: Retirado
-  rank: Veterano
-  last_name: Fernandes
-  instrument: Bandolim
-  first_name: Luis
-  photo: default.png
-
-- nickname: Huggies
-  status: Retirado
-  rank: Veterano
-  last_name: Passos
-  instrument: Guitarra
-  first_name: Luis/Filipe
-  photo: default.png
-
-- nickname: Marco S
-  status: Retirado
-  rank: Veterano
-  last_name: Policarpo
-  instrument: Percussão
-  first_name: Marcos
-  photo: default.png
-
-- nickname: C.C
-  status: Retirado
-  rank: Veterano
-  last_name: Cardoso
-  instrument: Estandarte
-  first_name: Mário
-  photo: default.png
-
-- nickname: Estikadinho
-  status: Retirado
-  rank: Veterano
-  last_name: Félix
-  instrument: Guitarra
-  first_name: Mário
-  photo: default.png
-
-- nickname: Camões
-  status: Retirado
-  rank: Veterano
-  last_name: Camões
-  instrument: Violino
-  first_name: Miguel
-  photo: default.png
-
-- nickname: Chama Ratas
-  status: Retirado
-  rank: Veterano
-  last_name: Catalão
-  instrument: Flauta
-  first_name: Miguel
-  photo: default.png
-
-- nickname: Macieira
-  status: Retirado
-  rank: Veterano
-  last_name: Amaral
-  instrument: Acordeão
-  first_name: Miguel
-  photo: default.png
-
-- nickname: PeterPan
-  status: Retirado
-  rank: Veterano
-  last_name: Ribeiro
-  instrument: Bandolim
-  first_name: Miguel
-  photo: default.png
-
-- nickname: Tabletes
-  status: Retirado
-  rank: Veterano
-  last_name: Teixeira
-  instrument: Pandeireta
-  first_name: Miguel
-  photo: default.png
-
-- nickname: Alfaiate
-  status: Retirado
-  rank: Veterano
-  last_name: Jorge
-  instrument: Trompete
-  first_name: Nathan
-  photo: default.png
-
-- status: Retirado
-  rank: Veterano
-  last_name: Paulo
-  instrument: Pandeireta
-  first_name: Nelson
-  photo: default.png
-
-- nickname: CP
-  status: Retirado
-  rank: Veterano
-  last_name: Filipe
-  instrument: Estandarte
-  first_name: Nuno
-  photo: default.png
-
-- nickname: Gregos
-  status: Retirado
-  rank: Veterano
-  last_name: Santos
-  instrument: Bandolim
-  first_name: Nuno
-  photo: default.png
-
-- nickname: K7'S
-  status: Retirado
-  rank: Veterano
-  last_name: Gonçalves
-  instrument: Guitarra
-  first_name: Nuno
-  photo: default.png
-
-- nickname: Sonekas/Juba
-  status: Retirado
-  rank: Veterano
-  last_name: Bento
-  instrument: Guitarra
-  first_name: Nuno
-  photo: default.png
-
-- nickname: Xirico
-  status: Retirado
-  rank: Veterano
-  last_name: Redondo
-  instrument: Pandeireta
-  first_name: Nuno
-  photo: default.png
-
-- nickname: Escuta Batuta
-  status: Retirado
-  rank: Veterano
-  last_name: Marques
-  instrument: Flauta
-  first_name: Paulo
-  photo: default.png
-
-- nickname: No Fear
-  status: Retirado
-  rank: Veterano
-  last_name: Braz
-  instrument: Braguesa
-  first_name: Paulo
-  photo: default.png
-
-- nickname: Paulinho
-  status: Retirado
-  rank: Veterano
-  last_name: Pedro
-  instrument: Estandarte
-  first_name: Paulo
-  photo: default.png
-
-- nickname: Capitão Farinha
-  status: Retirado
-  rank: Veterano
-  last_name: Cristovão
-  instrument: Guitarra
-  first_name: Pedro
-  photo: default.png
-
-- nickname: Fufa
-  status: Retirado
-  rank: Veterano
-  last_name: Santos
-  instrument: Guitarra
-  first_name: Pedro
-  photo: default.png
-
-- nickname: Pastor
-  status: Retirado
-  rank: Veterano
-  last_name: Duarte
-  instrument: Guitarra
-  first_name: Pedro
-  photo: default.png
-
-- nickname: Dália
-  status: Retirado
-  rank: Veterano
-  last_name: Santos
-  instrument: Guitarra
-  first_name: Ricardo
-  photo: default.png
-
-- nickname: Gelas
-  status: Retirado
-  rank: Veterano
-  last_name: Cunha
-  instrument: Castanholas
-  first_name: Ricardo
-  photo: default.png
-
-- nickname: Mustapha
-  status: Retirado
-  rank: Veterano
-  last_name: Rosa
-  instrument: Gaita de Foles
-  first_name: Ricardo
-  photo: default.png
-
-- nickname: Paco
-  status: Retirado
-  rank: Veterano
-  last_name: Serra
-  instrument: Contra-Baixo
-  first_name: Ricardo
-  photo: default.png
-
-- nickname: Pigmeu Gigante
-  status: Retirado
-  rank: Veterano
-  last_name: Duarte
-  instrument: Bandolim
-  first_name: Ricardo
-  photo: default.png
-
-- nickname: XL
-  status: Retirado
-  rank: Veterano
-  last_name: Lúcio
-  instrument: Cavaquinho
-  first_name: Ricardo
-  photo: default.png
-
-- nickname: Rena
-  joined: 2004-03
-  status: Retirado
-  rank: Veterano
-  last_name: Duarte
-  instrument: Percussão
-  first_name: Rodolfo
-  photo: default.png
-
-- nickname: Six-Pack
-  status: Retirado
-  rank: Veterano
-  last_name: Matias
-  instrument: Guitarra
-  first_name: Ruben
-  photo: default.png
-
-- nickname: Guedes
-  status: Retirado
-  rank: Veterano
-  last_name: Lino
-  instrument: Guitarra
-  first_name: Rui
-  photo: default.png
-
-- nickname: Kanivetes
-  status: Retirado
-  rank: Veterano
-  last_name: Marcelino
-  instrument: Cavaquinho
-  first_name: Rui
-  photo: default.png
-
-- nickname: Águia
-  status: Retirado
-  rank: Veterano
-  last_name: Veiga
-  instrument: Pandeireta
-  first_name: Rui
-  photo: default.png
-
-- nickname: Magic-Karp
-  status: Retirado
-  rank: Veterano
-  last_name: Martins
-  instrument: Guitarra
-  first_name: Rui
-  photo: default.png
-
-- nickname: Xarutos
-  status: Retirado
-  rank: Veterano
-  last_name: Simões
-  instrument: Percussão
-  first_name: Rui
-  photo: default.png
-
-- nickname: Bolinhas
-  status: Retirado
-  rank: Veterano
-  last_name: Gouveia
-  instrument: Pandeireta
-  first_name: Rui
-  photo: default.png
-
-- nickname: Madeirense
-  status: Retirado
-  rank: Veterano
-  last_name: Martins
-  instrument: Adufe
-  first_name: Samuel
-  photo: default.png
-
-- nickname: Bivalves
-  status: Retirado
-  rank: Veterano
-  last_name: Freire
-  instrument: Guitarra
-  first_name: Samuel
-  photo: default.png
-
-- nickname: Sergay
-  status: Retirado
-  rank: Veterano
-  last_name: Magrinho
-  instrument: Pandeireta
-  first_name: Sérgio
-  photo: default.png
-
-- nickname: Vaselina
-  status: Retirado
-  rank: Veterano
-  last_name: Vicente
-  instrument: Violino
-  first_name: Simão
-  photo: default.png
-
-- nickname: Tell me
-  status: Retirado
-  rank: Veterano
-  last_name: Miranda
-  instrument: Estandarte
-  first_name: Telmo
-  photo: default.png
-
-- nickname: Manolo
-  status: Retirado
-  rank: Veterano
-  last_name: Carvalho
-  instrument: Castanholas
-  first_name: Tiago
-  photo: default.png
-
-- nickname: Jolly
-  status: Retirado
-  rank: Veterano
-  last_name: Duarte
-  instrument: Estandarte
-  first_name: Tiago
-  photo: default.png
-
-- nickname: Telefonista
-  status: Retirado
-  rank: Veterano
-  last_name: Pires
-  instrument: Guitarra
-  first_name: Tiago
-  photo: tiago_pires.png
-
-- nickname: Sandokan
-  status: Retirado
-  rank: Veterano
-  last_name: Nunes
-  instrument: Cavaquinho
-  first_name: Tiago
-  photo: default.png
-
-- nickname: Tito
-  status: Retirado
-  rank: Veterano
-  last_name: Militão
-  instrument: Guitarra
-  first_name: Tito
-  photo: default.png
-
-- nickname: Frodo
-  status: Retirado
-  rank: Veterano
-  last_name: Muriel
-  instrument: Bandolim
-  first_name: Tomás
-  photo: default.png
-
-- nickname: Verdocas
-  status: Retirado
-  rank: Veterano
-  last_name: Pereira
-  instrument: Bandolim
-  first_name: Vitor
-  photo: default.png
-
-- status: Retirado
-  rank: Veterano
-  last_name: Coelho
-  instrument: Acordeão
-  first_name: Vitor
-  photo: default.png
-
-- nickname: Dente Afiado
-  status: Falecido
-  rank: Veterano
-  last_name: Florindo
-  instrument: Braguesa
-  first_name: Fernando
-  photo: default.png
-
-- nickname: Mokinhas
-  status: Falecido
-  rank: Veterano
-  last_name: Gomes
-  instrument: Braguesa
-  first_name: Luis
-  photo: default.png
-
-- nickname: O Povoador
-  status: Activo
+- first_name: David
   rank: Caloiro
-  last_name: Encarnação
-  instrument: Bandolim
-  first_name: Afonso
-  photo: default.png
-
-- nickname: Mini Hulk
   status: Activo
-  rank: Caloiro
-  last_name: Fernandes
-  instrument: Estandarte
-  first_name: André
-  photo: default.png
-
-- nickname: Botões
-  status: Activo
-  rank: Caloiro
+  instrument: Percussão
+  nickname: Botões
   last_name: Monteiro
-  instrument: Percussão
-  first_name: David
   photo: david_monteiro.png
 
-- nickname: Ambrósio
+- first_name: David
+  rank: Veterano
   status: Activo
+  instrument: Bandolim
+  nickname: Abominavel/Nona
+  last_name: Neves
+  photo: david_neves.png
+
+- first_name: André
   rank: Caloiro
-  last_name: Roxo
-  instrument: Guitarra
-  first_name: Diogo
+  status: Activo
+  instrument: Estandarte
+  nickname: Mini Hulk
+  last_name: Fernandes
   photo: default.png
 
-- nickname: Mini Manso
-  status: Activo
+- first_name: André
   rank: Caloiro
-  last_name: Lourenço
+  status: Retirado
+  instrument: Saxofone
+  nickname: Bruxo
+  last_name: Pereira
+  photo: default.png
+
+- first_name: André
+  rank: Caloiro
+  status: Retirado
+  instrument: Percussão
+  nickname: Dinísio
+  last_name: Santos
+  photo: default.png
+
+- first_name: Baran
+  rank: Caloiro
+  status: Retirado
+  instrument: Contra-Baixo
+  last_name: Uğur Algül
+  photo: default.png
+
+- first_name: Bruno
+  rank: Caloiro
+  status: Retirado
+  instrument: Bandola
+  nickname: Bocage
+  last_name: Aleixo
+  photo: default.png
+
+- first_name: Bruno
+  rank: Caloiro
+  status: Retirado
+  instrument: Percussão
+  nickname: Fardas
+  last_name: Pinho
+  photo: default.png
+
+- first_name: Bruno
+  rank: Caloiro
+  status: Retirado
+  instrument: Bandolim
+  nickname: Parvalheira
+  last_name: Oliveira
+  photo: default.png
+
+- first_name: Carlos
+  rank: Caloiro
+  status: Retirado
+  instrument: Braguesa
+  nickname: Lelo
+  last_name: Mota
+  photo: default.png
+
+- first_name: Daniel
+  rank: Veterano
+  status: Activo
+  instrument: Guitarra
+  nickname: Rui Pedro
+  last_name: Soares
+  photo: default.png
+
+- first_name: David
+  rank: Caloiro
+  status: Retirado
   instrument: Pandeireta
-  first_name: Francisco
+  nickname: Fumaças
+  last_name: Estácio
+  photo: default.png
+
+- first_name: David
+  rank: Caloiro
+  status: Retirado
+  instrument: Flauta
+  nickname: Zelda
+  last_name: Lourenço
+  photo: default.png
+
+- first_name: Diogo
+  rank: Caloiro
+  status: Retirado
+  instrument: Bandolim
+  nickname: Puto Crazy
+  last_name: Esteves
+  photo: default.png
+
+- first_name: Diogo
+  rank: Caloiro
+  status: Retirado
+  instrument: Bandolim
+  nickname: Justinho
+  last_name: Justino
+  photo: default.png
+
+- first_name: Diogo
+  rank: Caloiro
+  status: Retirado
+  instrument: Pandeireta
+  nickname: Jack Rufus
+  last_name: Sousa
+  photo: default.png
+
+- first_name: Diogo
+  rank: Caloiro
+  status: Retirado
+  instrument: Guitarra
+  nickname: Dentinho
+  last_name: Fernandes
+  photo: default.png
+
+- first_name: Diogo
+  rank: Caloiro
+  status: Retirado
+  instrument: Estandarte
+  nickname: Nemo
+  last_name: Calcada
+  photo: default.png
+
+- first_name: Diogo
+  rank: Caloiro
+  status: Retirado
+  instrument: Percussão
+  nickname: Quem?
+  last_name: Ferreira
+  photo: default.png
+
+- first_name: Eduardo
+  rank: Caloiro
+  status: Retirado
+  instrument: Violino
+  nickname: Ovinhos
+  last_name: Antunes
+  photo: default.png
+
+- first_name: Fabio
+  rank: Caloiro
+  status: Retirado
+  nickname: Drama
+  last_name: Crespim
+  photo: default.png
+
+- first_name: Fábio
+  rank: Caloiro
+  status: Retirado
+  instrument: Acordeão
+  nickname: Bangla
+  last_name: Moura
+  photo: default.png
+
+- first_name: Filipe
+  rank: Caloiro
+  status: Retirado
+  nickname: Técnico
+  last_name: Carapeto
+  photo: default.png
+
+- first_name: Gonçalo
+  rank: Caloiro
+  status: Retirado
+  instrument: Guitarra
+  nickname: Relvas
+  last_name: Costa
+  photo: default.png
+
+- first_name: Gonçalo
+  rank: Caloiro
+  status: Retirado
+  instrument: Trombone
+  last_name: Saraiva
+  photo: default.png
+
+- first_name: Hélder
+  rank: Caloiro
+  status: Retirado
+  instrument: Oboé
+  nickname: Kizomba
+  last_name: Silva
+  photo: default.png
+
+- first_name: Hugo
+  rank: Caloiro
+  status: Retirado
+  instrument: Pandeireta
+  nickname: Hurley
+  last_name: Santos
+  photo: default.png
+
+- first_name: Ivan
+  rank: Caloiro
+  status: Retirado
+  instrument: Pandeireta
+  last_name: Costa
+  photo: default.png
+
+- first_name: João
+  rank: Caloiro
+  status: Retirado
+  instrument: Percussão
+  nickname: Apu
+  last_name: Abrantes
+  photo: default.png
+
+- first_name: João
+  rank: Caloiro
+  status: Retirado
+  instrument: Pandeireta
+  nickname: Bolhas
+  last_name: André
+  photo: default.png
+
+- first_name: João
+  rank: Caloiro
+  status: Retirado
+  instrument: Percussão
+  nickname: BS
+  last_name: Calado
+  photo: default.png
+
+- first_name: João
+  rank: Caloiro
+  status: Retirado
+  instrument: Pandeireta
+  nickname: Copy
+  last_name: Sousa
+  photo: default.png
+
+- first_name: João
+  rank: Caloiro
+  status: Retirado
+  instrument: Bandolim
+  nickname: Tablaturas
+  last_name: Oliveira
+  photo: default.png
+
+- first_name: João
+  rank: Caloiro
+  status: Retirado
+  instrument: Estandarte
+  nickname: Ken
+  last_name: Esteves
+  photo: default.png
+
+- first_name: João
+  rank: Caloiro
+  status: Retirado
+  instrument: Guitarra
+  nickname: Mathias
+  last_name: Fernandes
+  photo: default.png
+
+- first_name: João
+  rank: Caloiro
+  status: Retirado
+  instrument: Guitarra
+  nickname: Mini John
+  last_name: Lobato
+  photo: default.png
+
+- first_name: João
+  rank: Caloiro
+  status: Retirado
+  instrument: Pandeireta
+  nickname: Savimbi
+  last_name: Sousa
+  photo: default.png
+
+- first_name: João
+  rank: Caloiro
+  status: Retirado
+  instrument: Cavaquinho
+  nickname: Shrek
+  last_name: Nunes
+  photo: default.png
+
+- first_name: João
+  rank: Caloiro
+  status: Retirado
+  instrument: Percussão
+  last_name: Inácio
+  photo: default.png
+
+- first_name: Levi
+  rank: Caloiro
+  status: Retirado
+  instrument: Guitarra
+  last_name: Galaio
+  photo: default.png
+
+- first_name: Luis
+  rank: Caloiro
+  status: Retirado
+  instrument: Pandeireta
+  nickname: Reka
+  last_name: Goncalves
+  photo: default.png
+
+- first_name: Luis
+  rank: Caloiro
+  status: Retirado
+  instrument: Guitarra
+  nickname: CopiTrates
+  last_name: Pinhão
+  photo: default.png
+
+- first_name: Miguel
+  rank: Caloiro
+  status: Retirado
+  instrument: Guitarra
+  nickname: Carocho
+  last_name: Dias
+  photo: default.png
+
+- first_name: Miguel
+  rank: Caloiro
+  status: Activo
+  instrument: Bandolim
+  nickname: Cumeta
+  last_name: Estrela
+  photo: default.png
+
+- first_name: Nuno
+  rank: Caloiro
+  status: Retirado
+  instrument: Bandolim
+  nickname: Tilt
+  last_name: Moura
+  photo: default.png
+
+- first_name: Nuno
+  rank: Caloiro
+  status: Retirado
+  instrument: Percussão
+  nickname: Beethoven
+  last_name: Rodrigues
+  photo: default.png
+
+- first_name: Nuno
+  rank: Caloiro
+  status: Retirado
+  instrument: Percussão
+  nickname: Maxi
+  last_name: Veloso
+  photo: default.png
+
+- first_name: Nuno
+  rank: Caloiro
+  status: Retirado
+  instrument: Estandarte
+  nickname: Ect
+  last_name: Sena
+  photo: default.png
+
+- first_name: Nuno
+  rank: Caloiro
+  status: Retirado
+  instrument: Pandeireta
+  nickname: Népias
+  last_name: Fernandes
+  photo: default.png
+
+- first_name: Paulo
+  rank: Caloiro
+  status: Retirado
+  instrument: Pandeireta
+  nickname: Brisa
+  last_name: Alves
+  photo: default.png
+
+- first_name: Pedro
+  rank: Caloiro
+  status: Retirado
+  instrument: Guitarra
+  nickname: Zé Kalanga
+  last_name: Menezes
+  photo: default.png
+
+- first_name: Pedro
+  rank: Caloiro
+  status: Retirado
+  instrument: Percussão
+  nickname: Castelo
+  last_name: Monteiro
+  photo: default.png
+
+- first_name: Rafael
+  rank: Caloiro
+  status: Retirado
+  instrument: Pandeireta
+  nickname: Couves
+  last_name: Monteiro
+  photo: default.png
+
+- first_name: Rafael
+  rank: Caloiro
+  status: Retirado
+  nickname: Leonardo Donatello Miguel Ângelo
+  last_name: Nunes
+  photo: default.png
+
+- first_name: Ricardo
+  rank: Caloiro
+  status: Retirado
+  instrument: Guitarra
+  nickname: Plural
+  last_name: Sousa
+  photo: default.png
+
+- first_name: Rúben
+  rank: Caloiro
+  status: Retirado
+  instrument: Guitarra
+  nickname: Bloqueado
+  last_name: Monteiro
+  photo: default.png
+
+- first_name: Ruben
+  rank: Caloiro
+  status: Retirado
+  instrument: Guitarra
+  nickname: Jarbas
+  last_name: Santos
+  photo: default.png
+
+- first_name: Sergio
+  rank: Caloiro
+  status: Retirado
+  nickname: Cabaço
+  last_name: Mendes 
+  photo: default.png
+
+- first_name: Tiago
+  rank: Caloiro
+  status: Retirado
+  instrument: Acordeão
+  nickname: Projecto Pah
+  last_name: Costa
+  photo: default.png
+
+- first_name: Tiago
+  rank: Caloiro
+  status: Retirado
+  instrument: Guitarra
+  nickname: Ti Maria
+  last_name: Rodrigues
+  photo: default.png
+
+- first_name: Tiago
+  rank: Caloiro
+  status: Retirado
+  instrument: Voz
+  nickname: Titi
+  last_name: Santos
+  photo: default.png
+
+- first_name: Tiago
+  rank: Caloiro
+  status: Retirado
+  instrument: Trompa
+  nickname: Caloiro
+  last_name: Labreca
+  photo: default.png
+
+- first_name: Wilson
+  rank: Caloiro
+  status: Retirado
+  instrument: Estandarte
+  nickname: Mr. Wilson
+  last_name: Pinheiro
+  photo: default.png
+
+- first_name: Zé
+  rank: Caloiro
+  status: Retirado
+  instrument: Guitarra
+  last_name: Bernardino
+  photo: default.png
+
+- first_name: Carlos
+  rank: Fundador
+  status: Retirado
+  instrument: Braguesa
+  joined: 1997-03
+  last_name: Maia
+  photo: default.png
+
+- first_name: Carlos
+  rank: Fundador
+  status: Retirado
+  instrument: Cavaquinho
+  joined: 1997-03
+  last_name: Ramos
+  photo: default.png
+
+- first_name: Daniel
+  rank: Fundador
+  status: Retirado
+  instrument: Adufe
+  nickname: Danni
+  joined: 1997-03
+  last_name: Rocha
+  photo: default.png
+
+- first_name: Daniel
+  rank: Fundador
+  status: Retirado
+  instrument: Bandolim
+  nickname: EL Pablo
+  joined: 1997-03
+  last_name: Lopés
+  photo: default.png
+
+- first_name: Filipe
+  rank: Fundador
+  status: Retirado
+  instrument: Estandarte
+  nickname: Bêbado
+  joined: 1997-03
+  last_name: Amorous
+  photo: default.png
+
+- first_name: José
+  rank: Fundador
+  status: Retirado
+  instrument: Voz
+  nickname: Sebes
+  joined: 1997-03
+  last_name: Simão
+  photo: default.png
+
+- first_name: Júlio
+  rank: Fundador
+  status: Retirado
+  instrument: Percussão
+  nickname: Pica-Miolos
+  joined: 1997-03
+  last_name: Sousa
+  photo: default.png
+
+- first_name: Mário
+  rank: Fundador
+  status: Retirado
+  instrument: Percussão
+  joined: 1997-03
+  last_name: Serafim
+  photo: default.png
+
+- first_name: Miguel
+  rank: Fundador
+  status: Retirado
+  instrument: Pandeireta
+  nickname: Giga
+  joined: 1997-03
+  last_name: Pereira
+  photo: default.png
+
+- first_name: Miguel
+  rank: Fundador
+  status: Retirado
+  instrument: Bandolim
+  nickname: Imperial
+  joined: 1997-03
+  last_name: Gomes
+  photo: default.png
+
+- first_name: Nuno
+  rank: Fundador
+  status: Retirado
+  instrument: Guitarra
+  nickname: Ex-Magister
+  joined: 1997-03
+  last_name: Martins
+  photo: default.png
+
+- first_name: Rui
+  rank: Fundador
+  status: Retirado
+  instrument: Bandolim
+  nickname: Marisco
+  joined: 1997-03
+  last_name: Maia
+  photo: default.png
+
+- first_name: Félix
+  rank: Honorário
+  status: Retirado
+  last_name: Soares
+  photo: default.png
+
+- first_name: José
+  rank: Honorário
+  status: Retirado
+  nickname: Bigodes
+  last_name: Silva
+  photo: default.png
+
+- first_name: Eduardo
+  rank: Honorário
+  status: Retirado
+  last_name: Eusébio
+  photo: default.png
+
+- first_name: Afonso
+  rank: Veterano
+  status: Retirado
+  instrument: Pandeireta
+  nickname: Heidy
+  last_name: Rodrigues
+  photo: default.png
+
+- first_name: André
+  rank: Veterano
+  status: Activo
+  instrument: Estandarte
+  nickname: Cenoura
+  last_name: Costa
+  photo: default.png
+
+- first_name: André
+  rank: Veterano
+  status: Retirado
+  instrument: Guitarra
+  nickname: Grande
+  last_name: Gomes
+  photo: default.png
+
+- first_name: André
+  rank: Veterano
+  status: Retirado
+  instrument: Pandeireta
+  nickname: Mimosa
+  last_name: Pimenta
+  photo: default.png
+
+- first_name: André
+  rank: Veterano
+  status: Retirado
+  instrument: Bandolim
+  nickname: Topogigio
+  last_name: Reis
+  photo: default.png
+
+- first_name: António
+  rank: Veterano
+  status: Retirado
+  instrument: Braguesa
+  last_name: Barras
+  photo: default.png
+
+- first_name: Bernardo
+  rank: Veterano
+  status: Retirado
+  instrument: Estandarte
+  nickname: Carocha
+  last_name: Nunes
+  photo: default.png
+
+- first_name: Bruno
+  rank: Veterano
+  status: Retirado
+  instrument: Guitarra
+  nickname: Paste
+  last_name: Peixoto
+  photo: default.png
+
+- first_name: Bruno
+  rank: Veterano
+  status: Retirado
+  instrument: Bandolim
+  nickname: Xina
+  last_name: Almeida
+  photo: default.png
+
+- first_name: Carlos
+  rank: Veterano
+  status: Retirado
+  instrument: Bandolim
+  nickname: Vladimir
+  last_name: Conceição
+  photo: default.png
+
+- first_name: Celso
+  rank: Veterano
+  status: Retirado
+  instrument: Estandarte
+  nickname: Kamikaze
+  last_name: Menaia
+  photo: default.png
+
+- first_name: Cláudio
+  rank: Veterano
+  status: Retirado
+  instrument: Acordeão
+  nickname: Pantera
+  last_name: Oliveira
+  photo: default.png
+
+- first_name: Clife
+  rank: Veterano
+  status: Retirado
+  instrument: Pandeireta
+  nickname: Princesa
+  last_name: Braga
+  photo: default.png
+
+- first_name: 'Daniel '
+  rank: Veterano
+  status: Activo
+  instrument: Estandarte
+  nickname: Il Divo
+  last_name: Fragoeiro
+  photo: default.png
+
+- first_name: Daniel
+  rank: Veterano
+  status: Activo
+  instrument: Percussão
+  nickname: FormigaZ
+  last_name: Almeida
+  photo: default.png
+
+- first_name: Daniel
+  rank: Veterano
+  status: Retirado
+  instrument: Bandolim
+  nickname: Galinhas
+  last_name: Xavier
+  photo: default.png
+
+- first_name: David
+  rank: Veterano
+  status: Retirado
+  instrument: Pandeireta
+  nickname: Irmão do Marco
+  last_name: Pernes 
+  photo: default.png
+
+- first_name: David
+  rank: Veterano
+  status: Retirado
+  instrument: Pandeireta
+  nickname: Satan
+  last_name: Miranda
+  photo: default.png
+
+- first_name: Diogo
+  rank: Veterano
+  status: Retirado
+  instrument: Guitarra
+  nickname: Mural
+  last_name: Vidigal
+  photo: default.png
+
+- first_name: Duarte
+  rank: Veterano
+  status: Retirado
+  instrument: Pandeireta
+  nickname: Meio Tempo
+  last_name: Freitas
+  photo: default.png
+
+- first_name: Duarte
+  rank: Veterano
+  status: Activo
+  instrument: Pandeireta
+  nickname: Madeirense
+  last_name: Pavão
+  photo: default.png
+
+- first_name: Fernando
+  rank: Veterano
+  status: Retirado
+  instrument: Contra-Baixo
+  nickname: Barrigas
+  last_name: Madeira
+  photo: default.png
+
+- first_name: Fernando
+  rank: Veterano
+  status: Falecido
+  instrument: Braguesa
+  nickname: Dente Afiado
+  last_name: Florindo
+  photo: default.png
+
+- first_name: Fernando
+  rank: Veterano
+  status: Retirado
+  instrument: Guitarra
+  nickname: Patilhas
+  last_name: Meireles
+  photo: default.png
+
+- first_name: Filipe
+  rank: Veterano
+  status: Retirado
+  instrument: Cavaquinho
+  nickname: Faíska
+  last_name: Alves
+  photo: default.png
+
+- first_name: Filipe
+  rank: Veterano
+  status: Retirado
+  instrument: Guitarra
+  nickname: Fundão
+  last_name: Bento
+  photo: default.png
+
+- first_name: Filipe
+  rank: Veterano
+  status: Retirado
+  instrument: Bandolim
+  nickname: Poupas
+  last_name: Amaral
+  photo: default.png
+
+- first_name: Flavio
+  rank: Veterano
+  status: Retirado
+  instrument: Flauta
+  nickname: Pescador
+  last_name: Almeida
+  photo: default.png
+
+- first_name: Francisco
+  rank: Veterano
+  status: Retirado
+  instrument: Percussão
+  nickname: Fiona
+  last_name: Canhoto
+  photo: default.png
+
+- first_name: Gabriel
+  rank: Veterano
+  status: Retirado
+  instrument: Cavaquinho
+  nickname: Gabi
+  last_name: Longo
+  photo: default.png
+
+- first_name: Gonçalo
+  rank: Veterano
+  status: Activo
+  instrument: Guitarra
+  nickname: Buggs
+  last_name: Coelho
+  photo: default.png
+
+- first_name: Gonçalo
+  rank: Veterano
+  status: Retirado
+  instrument: Cavaquinho
+  nickname: Mirra
+  last_name: Maia
+  photo: default.png
+
+- first_name: Gonçalo
+  rank: Veterano
+  status: Retirado
+  instrument: Guitarra
+  nickname: Selo
+  last_name: Teixeira
+  photo: default.png
+
+- first_name: Gonçalo
+  rank: Veterano
+  status: Retirado
+  instrument: Percussão
+  nickname: WC
+  last_name: Cordeiro
+  photo: default.png
+
+- first_name: Hélder
+  rank: Veterano
+  status: Retirado
+  instrument: Cavaquinho
+  nickname: Furão
+  last_name: Mendes
+  photo: default.png
+
+- first_name: Henrique
+  rank: Veterano
+  status: Retirado
+  instrument: Guitarra
+  nickname: Manxa Negra
+  last_name: Marques
+  photo: default.png
+
+- first_name: Hugo
+  rank: Veterano
+  status: Retirado
+  instrument: Guitarra
+  nickname: Gadelhas
+  last_name: Ferreira
+  photo: default.png
+
+- first_name: Hugo
+  rank: Veterano
+  status: Retirado
+  instrument: Pandeireta
+  nickname: Palanka
+  last_name: Carpelho
+  photo: default.png
+
+- first_name: Hugo
+  rank: Veterano
+  status: Retirado
+  instrument: Bandolim
+  nickname: Pikachu
+  last_name: Barrento
+  photo: default.png
+
+- first_name: Hugo
+  rank: Veterano
+  status: Activo
+  instrument: Nada
+  nickname: Pepe
+  last_name: Kong
+  photo: default.png
+
+- first_name: Hugo
+  rank: Veterano
+  status: Retirado
+  instrument: Pandeireta
+  nickname: Irmão x2(Irmão do Marco)
+  last_name: Duque
+  photo: default.png
+
+- first_name: Ivo
+  rank: Veterano
+  status: Retirado
+  instrument: Flauta
+  nickname: Scuba
+  last_name: Gonçalves
+  photo: default.png
+
+- first_name: Ivo
+  rank: Veterano
+  status: Retirado
+  instrument: Guitarra
+  nickname: Tom Sawyer
+  last_name: Fernandes
+  photo: default.png
+
+- first_name: João
+  rank: Veterano
+  status: Activo
+  instrument: Guitarra
+  nickname: 3/4 de uma Esquina Oblíca aka Berlaites
+  last_name: Lopes
+  photo: default.png
+
+- first_name: João
+  rank: Veterano
+  status: Retirado
+  instrument: Cavaquinho
+  nickname: Americano
+  last_name: Martins
+  photo: default.png
+
+- first_name: João
+  rank: Veterano
+  status: Activo
+  instrument: Guitarra
+  nickname: Anon
+  last_name: Rocha
+  photo: default.png
+
+- first_name: João
+  rank: Veterano
+  status: Retirado
+  instrument: Bandolim
+  nickname: Bandolim
+  last_name: Seixas
+  photo: default.png
+
+- first_name: João
+  rank: Veterano
+  status: Retirado
+  instrument: Bandola
+  nickname: Chop-Soy
+  last_name: Augusto
+  photo: default.png
+
+- first_name: João
+  rank: Veterano
+  status: Retirado
+  instrument: Guitarra
+  nickname: Jessyka
+  last_name: Belo
+  photo: default.png
+
+- first_name: João
+  rank: Veterano
+  status: Retirado
+  instrument: Guitarra
+  nickname: Phónix
+  last_name: Félix
+  photo: default.png
+
+- first_name: João
+  rank: Veterano
+  status: Activo
+  instrument: Guitarra
+  nickname: Pistas
+  last_name: Pereira
+  photo: default.png
+
+- first_name: João
+  rank: Veterano
+  status: Retirado
+  instrument: Estandarte
+  nickname: Ruca
+  last_name: Oliveira
+  photo: default.png
+
+- first_name: João
+  rank: Veterano
+  status: Retirado
+  instrument: Guitarra
+  last_name: Zurzica
+  photo: default.png
+
+- first_name: João
+  rank: Veterano
+  status: Activo
+  instrument: Contra-Baixo
+  nickname: Marques de Pombal
+  last_name: Clemente
+  photo: default.png
+
+- first_name: Jorge
+  rank: Veterano
+  status: Retirado
+  instrument: Reco Reco
+  nickname: BTT
+  last_name: Alves
+  photo: default.png
+
+- first_name: Jorge
+  rank: Veterano
+  status: Retirado
+  instrument: Pandeireta
+  nickname: Panda
+  last_name: Nunes
+  photo: default.png
+
+- first_name: José
+  rank: Veterano
+  status: Retirado
+  instrument: Guitarra
+  nickname: CowBoy
+  last_name: Alegre
+  photo: default.png
+
+- first_name: José
+  rank: Veterano
+  status: Retirado
+  instrument: Bandolim
+  nickname: Javaman
+  last_name: Oliveira
+  photo: default.png
+
+- first_name: José
+  rank: Veterano
+  status: Retirado
+  instrument: Percussão
+  nickname: Timba
+  last_name: Cancelas
+  photo: default.png
+
+- first_name: Leonel
+  rank: Veterano
+  status: Retirado
+  instrument: Percussão
+  nickname: Narso
+  last_name: Alexandre
+  photo: default.png
+
+- first_name: Luis
+  rank: Veterano
+  status: Retirado
+  instrument: Percussão
+  nickname: Bombarral
+  last_name: Silva
+  photo: default.png
+
+- first_name: Luis
+  rank: Veterano
+  status: Retirado
+  instrument: Guitarra
+  nickname: Conan
+  last_name: Medeiro
+  photo: default.png
+
+- first_name: Luis
+  rank: Veterano
+  status: Retirado
+  instrument: Estandarte
+  nickname: Lucky
+  last_name: Pinheiro
+  photo: default.png
+
+- first_name: Luis
+  rank: Veterano
+  status: Falecido
+  instrument: Braguesa
+  nickname: Mokinhas
+  last_name: Gomes
+  photo: default.png
+
+- first_name: Luis
+  rank: Veterano
+  status: Retirado
+  instrument: Bandolim
+  nickname: Xabregas
+  last_name: Fernandes
+  photo: default.png
+
+- first_name: Luis/Filipe
+  rank: Veterano
+  status: Retirado
+  instrument: Guitarra
+  nickname: Huggies
+  last_name: Passos
+  photo: default.png
+
+- first_name: Manuel
+  rank: Veterano
+  status: Activo
+  instrument: Acordeão
+  nickname: Nelo
+  last_name: Rocha
+  photo: default.png
+
+- first_name: Marcos
+  rank: Veterano
+  status: Retirado
+  instrument: Percussão
+  nickname: Marco S
+  last_name: Policarpo
+  photo: default.png
+
+- first_name: Mário
+  rank: Veterano
+  status: Retirado
+  instrument: Estandarte
+  nickname: C.C
+  last_name: Cardoso
+  photo: default.png
+
+- first_name: Mário
+  rank: Veterano
+  status: Retirado
+  instrument: Guitarra
+  nickname: Estikadinho
+  last_name: Félix
+  photo: default.png
+
+- first_name: Miguel
+  rank: Veterano
+  status: Retirado
+  instrument: Violino
+  nickname: Camões
+  last_name: Camões
+  photo: default.png
+
+- first_name: Miguel
+  rank: Veterano
+  status: Retirado
+  instrument: Flauta
+  nickname: Chama Ratas
+  last_name: Catalão
+  photo: default.png
+
+- first_name: Miguel
+  rank: Veterano
+  status: Retirado
+  instrument: Acordeão
+  nickname: Macieira
+  last_name: Amaral
+  photo: default.png
+
+- first_name: Miguel
+  rank: Veterano
+  status: Retirado
+  instrument: Bandolim
+  nickname: PeterPan
+  last_name: Ribeiro
+  photo: default.png
+
+- first_name: Miguel
+  rank: Veterano
+  status: Retirado
+  instrument: Pandeireta
+  nickname: Tabletes
+  last_name: Teixeira
+  photo: default.png
+
+- first_name: Nathan
+  rank: Veterano
+  status: Retirado
+  instrument: Trompete
+  nickname: Alfaiate
+  last_name: Jorge
+  photo: default.png
+
+- first_name: Nelson
+  rank: Veterano
+  status: Retirado
+  instrument: Pandeireta
+  last_name: Paulo
+  photo: default.png
+
+- first_name: Nuno
+  rank: Veterano
+  status: Retirado
+  instrument: Estandarte
+  nickname: CP
+  last_name: Filipe
+  photo: default.png
+
+- first_name: Nuno
+  rank: Veterano
+  status: Retirado
+  instrument: Bandolim
+  nickname: Gregos
+  last_name: Santos
+  photo: default.png
+
+- first_name: Nuno
+  rank: Veterano
+  status: Retirado
+  instrument: Guitarra
+  nickname: K7'S
+  last_name: Gonçalves
+  photo: default.png
+
+- first_name: Nuno
+  rank: Veterano
+  status: Retirado
+  instrument: Guitarra
+  nickname: Sonekas/Juba
+  last_name: Bento
+  photo: default.png
+
+- first_name: Nuno
+  rank: Veterano
+  status: Retirado
+  instrument: Pandeireta
+  nickname: Xirico
+  last_name: Redondo
+  photo: default.png
+
+- first_name: Paulo
+  rank: Veterano
+  status: Activo
+  instrument: Guitarra
+  nickname: Bino
+  last_name: Moreira
+  photo: default.png
+
+- first_name: Paulo
+  rank: Veterano
+  status: Retirado
+  instrument: Flauta
+  nickname: Escuta Batuta
+  last_name: Marques
+  photo: default.png
+
+- first_name: Paulo
+  rank: Veterano
+  status: Retirado
+  instrument: Braguesa
+  nickname: No Fear
+  last_name: Braz
+  photo: default.png
+
+- first_name: Paulo
+  rank: Veterano
+  status: Retirado
+  instrument: Estandarte
+  nickname: Paulinho
+  last_name: Pedro
+  photo: default.png
+
+- first_name: Pedro
+  rank: Veterano
+  status: Retirado
+  instrument: Guitarra
+  nickname: Capitão Farinha
+  last_name: Cristovão
+  photo: default.png
+
+- first_name: Pedro
+  rank: Veterano
+  status: Retirado
+  instrument: Guitarra
+  nickname: Fufa
+  last_name: Santos
+  photo: default.png
+
+- first_name: Pedro
+  rank: Veterano
+  status: Activo
+  instrument: Bandolim
+  nickname: Lolita
+  last_name: Sarmento
+  photo: default.png
+
+- first_name: Pedro
+  rank: Veterano
+  status: Retirado
+  instrument: Guitarra
+  nickname: Pastor
+  last_name: Duarte
+  photo: default.png
+
+- first_name: Ricardo
+  rank: Veterano
+  status: Retirado
+  instrument: Guitarra
+  nickname: Dália
+  last_name: Santos
+  photo: default.png
+
+- first_name: Ricardo
+  rank: Veterano
+  status: Retirado
+  instrument: Castanholas
+  nickname: Gelas
+  last_name: Cunha
+  photo: default.png
+
+- first_name: Ricardo
+  rank: Veterano
+  status: Activo
+  instrument: Cavaquinho
+  nickname: Desculpas
+  last_name: Lopes
+  photo: default.png
+
+- first_name: Ricardo
+  rank: Veterano
+  status: Retirado
+  instrument: Gaita de Foles
+  nickname: Mustapha
+  last_name: Rosa
+  photo: default.png
+
+- first_name: Ricardo
+  rank: Veterano
+  status: Retirado
+  instrument: Contra-Baixo
+  nickname: Paco
+  last_name: Serra
+  photo: default.png
+
+- first_name: Ricardo
+  rank: Veterano
+  status: Retirado
+  instrument: Bandolim
+  nickname: Pigmeu Gigante
+  last_name: Duarte
+  photo: default.png
+
+- first_name: Vitor
+  rank: Veterano
+  status: Retirado
+  instrument: Bandolim
+  nickname: Verdocas
+  last_name: Pereira
+  photo: default.png
+
+- first_name: Rui
+  rank: Veterano
+  status: Retirado
+  instrument: Guitarra
+  nickname: Guedes
+  last_name: Lino
+  photo: default.png
+
+- first_name: Tiago
+  rank: Veterano
+  status: Retirado
+  instrument: Castanholas
+  nickname: Manolo
+  last_name: Carvalho
+  photo: default.png
+
+- first_name: Rodolfo
+  rank: Veterano
+  status: Retirado
+  instrument: Percussão
+  nickname: Rena
+  joined: 2004-03
+  last_name: Duarte
+  photo: default.png
+
+- first_name: Samuel
+  rank: Veterano
+  status: Retirado
+  instrument: Adufe
+  nickname: Madeirense
+  last_name: Martins
+  photo: default.png
+
+- first_name: Rui
+  rank: Veterano
+  status: Retirado
+  instrument: Cavaquinho
+  nickname: Kanivetes
+  last_name: Marcelino
+  photo: default.png
+
+- first_name: Ricardo
+  rank: Veterano
+  status: Activo
+  instrument: Clarinete
+  nickname: Tartaruga Genial
+  last_name: Mota
+  photo: default.png
+
+- first_name: Rui
+  rank: Veterano
+  status: Retirado
+  instrument: Pandeireta
+  nickname: Águia
+  last_name: Veiga
+  photo: default.png
+
+- first_name: Tiago
+  rank: Veterano
+  status: Retirado
+  instrument: Estandarte
+  nickname: Jolly
+  last_name: Duarte
+  photo: default.png
+
+- first_name: Sebastião
+  rank: Veterano
+  status: Activo
+  instrument: Estandarte
+  nickname: Mad eye
+  last_name: Correia
+  photo: default.png
+
+- first_name: Ricardo
+  rank: Veterano
+  status: Retirado
+  instrument: Cavaquinho
+  nickname: XL
+  last_name: Lúcio
+  photo: default.png
+
+- first_name: Rui
+  rank: Veterano
+  status: Retirado
+  instrument: Guitarra
+  nickname: Magic-Karp
+  last_name: Martins
+  photo: default.png
+
+- first_name: Telmo
+  rank: Veterano
+  status: Retirado
+  instrument: Estandarte
+  nickname: Tell me
+  last_name: Miranda
+  photo: default.png
+
+- first_name: Vitor
+  rank: Veterano
+  status: Retirado
+  instrument: Acordeão
+  last_name: Coelho
+  photo: default.png
+
+- first_name: Samuel
+  rank: Veterano
+  status: Retirado
+  instrument: Guitarra
+  nickname: Bivalves
+  last_name: Freire
+  photo: default.png
+
+- first_name: Rui
+  rank: Veterano
+  status: Retirado
+  instrument: Percussão
+  nickname: Xarutos
+  last_name: Simões
+  photo: default.png
+
+- first_name: Rui
+  rank: Veterano
+  status: Retirado
+  instrument: Pandeireta
+  nickname: Bolinhas
+  last_name: Gouveia
+  photo: default.png
+
+- first_name: Ruben
+  rank: Veterano
+  status: Retirado
+  instrument: Guitarra
+  nickname: Six-Pack
+  last_name: Matias
+  photo: default.png
+
+- first_name: Simão
+  rank: Veterano
+  status: Retirado
+  instrument: Violino
+  nickname: Vaselina
+  last_name: Vicente
+  photo: default.png
+
+- first_name: Tomás
+  rank: Veterano
+  status: Retirado
+  instrument: Bandolim
+  nickname: Frodo
+  last_name: Muriel
+  photo: default.png
+
+- first_name: Tiago
+  rank: Veterano
+  status: Retirado
+  instrument: Cavaquinho
+  nickname: Sandokan
+  last_name: Nunes
+  photo: default.png
+
+- first_name: Sérgio
+  rank: Veterano
+  status: Retirado
+  instrument: Pandeireta
+  nickname: Sergay
+  last_name: Magrinho
+  photo: default.png
+
+- first_name: Tito
+  rank: Veterano
+  status: Retirado
+  instrument: Guitarra
+  nickname: Tito
+  last_name: Militão
+  photo: default.png
+
+- first_name: Gabriel
+  rank: Caloiro
+  status: Activo
+  instrument: Guitarra
+  nickname: Dobrada
+  last_name: Tavares
+  photo: default.png
+
+- first_name: Afonso
+  rank: Caloiro
+  status: Activo
+  instrument: Bandolim
+  nickname: O Povoador
+  last_name: Encarnação
+  photo: default.png
+
+- first_name: Diogo
+  rank: Caloiro
+  status: Activo
+  instrument: Guitarra
+  nickname: Ambrósio
+  last_name: Roxo
+  photo: default.png
+
+- first_name: Diogo
+  rank: Veterano
+  status: Activo
+  instrument: Guitarra
+  nickname: Xopax
+  last_name: Baptista
+  photo: diogo_baptista.png
+
+- first_name: Diogo
+  rank: Veterano
+  status: Activo
+  instrument: Clarinete
+  nickname: Abel
+  last_name: Claudino
+  photo: diogo_claudino.png
+
+- first_name: Diogo
+  rank: Veterano
+  status: Activo
+  instrument: Estandarte
+  nickname: Hulk/Meia Tuna
+  last_name: Fernandes
+  photo: diogo_fernandes.png
+
+- first_name: Diogo
+  rank: Veterano
+  status: Activo
+  instrument: Guitarra
+  nickname: Didi/Fashion
+  joined: 2004-03
+  last_name: Silva
+  photo: diogo_silva.png
+
+- first_name: Francisco
+  rank: Veterano
+  status: Activo
+  instrument: Violino
+  nickname: Vítor
+  last_name: Espadinha
+  photo: francisco_espadinha.png
+
+- first_name: Francisco
+  rank: Caloiro
+  status: Activo
+  instrument: Pandeireta
+  nickname: Mini Manso
+  last_name: Lourenço
   photo: francisco_lourenco.png
 
-- nickname: Dobrada
-  status: Activo
+- first_name: Guilherme
   rank: Caloiro
-  last_name: Tavares
-  instrument: Guitarra
-  first_name: Gabriel
-  photo: default.png
-
-- nickname: Rexona
   status: Activo
-  rank: Caloiro
+  nickname: Rexona
   last_name: Correia
-  first_name: Guilherme
   photo: guilherme_correia.png
 
-- nickname: Cospe
+- first_name: João
+  rank: Veterano
   status: Activo
+  instrument: Bandolim
+  nickname: Griffin
+  last_name: Almeida
+  photo: joao_almeida.png
+
+- first_name: João
+  rank: Veterano
+  status: Retirado
+  instrument: Contra-Baixo
+  nickname: Alzheimer
+  last_name: Carneiro
+  photo: joao_carneiro.png
+
+- first_name: João
+  rank: Veterano
+  status: Activo
+  instrument: Acordeão
+  nickname: Irmão do (2x)  Marco
+  last_name: Chaves
+  photo: joao_chaves.png
+
+- first_name: João
+  rank: Veterano
+  status: Activo
+  instrument: Saxofone
+  nickname: Xorão
+  last_name: Mouta
+  photo: joao_mouta.png
+
+- first_name: João
+  rank: Veterano
+  status: Activo
+  instrument: Cavaquinho
+  nickname: Bispo
+  last_name: Benedito
+  photo: joao_pedro_benedito.png
+
+- first_name: João
+  rank: Veterano
+  status: Activo
+  instrument: Guitarra
+  nickname: Kill Billis
+  last_name: Martins
+  photo: joao_pedro.png
+
+- first_name: Leonardo
+  rank: Veterano
+  status: Activo
+  instrument: Percussão
+  nickname: Davinte
+  last_name: Franciscatto
+  photo: leonardo_franciscatto.png
+
+- first_name: Luis
   rank: Caloiro
+  status: Activo
+  nickname: Cospe
   last_name: Catarino
-  first_name: Luis
   photo: luis_catarino.png
 
-- nickname: Cumeta
+- first_name: Luis
+  rank: Veterano
   status: Activo
-  rank: Caloiro
-  last_name: Estrela
-  instrument: Bandolim
-  first_name: Miguel
-  photo: default.png
-
-- status: Activo
-  rank: Caloiro
-  last_name: d'Azevedo
   instrument: Contra-Baixo
-  first_name: Santiago
+  nickname: Obrigado
+  last_name: Lopes
+  photo: luis_lopes.png
+
+- first_name: 'Marco '
+  rank: Veterano
+  status: Activo
+  instrument: Pandeireta
+  nickname: Geodésico
+  last_name: Ribeiro
+  photo: marco_ribeiro.png
+
+- first_name: Nuno
+  rank: Veterano
+  status: Activo
+  instrument: Bandolim
+  nickname: Suardo
+  joined: 2015-05
+  last_name: Gaspar
+  photo: nuno_gaspar.png
+
+- first_name: Ricardo
+  rank: Veterano
+  status: Activo
+  instrument: Guitarra
+  nickname: Manso
+  last_name: Lourenço
+  photo: ricardo_manso.png
+
+- first_name: Ricardo
+  rank: Veterano
+  status: Activo
+  instrument: Pandeireta
+  nickname: Jiaho
+  last_name: Pinho
+  photo: ricardo_pinho.png
+
+- first_name: Roberto
+  rank: Veterano
+  status: Activo
+  instrument: Guitarra
+  nickname: Leal
+  last_name: Deodato
+  photo: roberto_deodato.png
+
+- first_name: Rodolfo
+  rank: Veterano
+  status: Activo
+  instrument: Contra-Baixo
+  nickname: Veado
+  last_name: Teixeira
+  photo: rodolfo_teixeira.png
+
+- first_name: Santiago
+  rank: Caloiro
+  status: Activo
+  instrument: Contra-Baixo
+  last_name: d'Azevedo
   photo: santiago_dazevedo.png
 
-- nickname: Bruxo
-  status: Retirado
-  rank: Caloiro
-  last_name: Pereira
-  instrument: Saxofone
-  first_name: André
-  photo: default.png
-
-- nickname: Dinísio
-  status: Retirado
-  rank: Caloiro
-  last_name: Santos
+- first_name: Simão
+  rank: Veterano
+  status: Activo
   instrument: Percussão
-  first_name: André
-  photo: default.png
-
-- status: Retirado
-  rank: Caloiro
-  last_name: Uğur Algül
-  instrument: Contra-Baixo
-  first_name: Baran
-  photo: default.png
-
-- nickname: Bocage
-  status: Retirado
-  rank: Caloiro
-  last_name: Aleixo
-  instrument: Bandola
-  first_name: Bruno
-  photo: default.png
-
-- nickname: Fardas
-  status: Retirado
-  rank: Caloiro
-  last_name: Pinho
-  instrument: Percussão
-  first_name: Bruno
-  photo: default.png
-
-- nickname: Parvalheira
-  status: Retirado
-  rank: Caloiro
-  last_name: Oliveira
-  instrument: Bandolim
-  first_name: Bruno
-  photo: default.png
-
-- nickname: Lelo
-  status: Retirado
-  rank: Caloiro
-  last_name: Mota
-  instrument: Braguesa
-  first_name: Carlos
-  photo: default.png
-
-- nickname: Fumaças
-  status: Retirado
-  rank: Caloiro
-  last_name: Estácio
-  instrument: Pandeireta
-  first_name: David
-  photo: default.png
-
-- nickname: Zelda
-  status: Retirado
-  rank: Caloiro
-  last_name: Lourenço
-  instrument: Flauta
-  first_name: David
-  photo: default.png
-
-- nickname: Puto Crazy
-  status: Retirado
-  rank: Caloiro
-  last_name: Esteves
-  instrument: Bandolim
-  first_name: Diogo
-  photo: default.png
-
-- nickname: Justinho
-  status: Retirado
-  rank: Caloiro
-  last_name: Justino
-  instrument: Bandolim
-  first_name: Diogo
-  photo: default.png
-
-- nickname: Jack Rufus
-  status: Retirado
-  rank: Caloiro
-  last_name: Sousa
-  instrument: Pandeireta
-  first_name: Diogo
-  photo: default.png
-
-- nickname: Dentinho
-  status: Retirado
-  rank: Caloiro
-  last_name: Fernandes
-  instrument: Guitarra
-  first_name: Diogo
-  photo: default.png
-
-- nickname: Nemo
-  status: Retirado
-  rank: Caloiro
-  last_name: Calcada
-  instrument: Estandarte
-  first_name: Diogo
-  photo: default.png
-
-- nickname: Quem?
-  status: Retirado
-  rank: Caloiro
-  last_name: Ferreira
-  instrument: Percussão
-  first_name: Diogo
-  photo: default.png
-
-- nickname: Ovinhos
-  status: Retirado
-  rank: Caloiro
-  last_name: Antunes
-  instrument: Violino
-  first_name: Eduardo
-  photo: default.png
-
-- nickname: Drama
-  status: Retirado
-  rank: Caloiro
-  last_name: Crespim
-  first_name: Fabio
-  photo: default.png
-
-- nickname: Bangla
-  status: Retirado
-  rank: Caloiro
-  last_name: Moura
-  instrument: Acordeão
-  first_name: Fábio
-  photo: default.png
-
-- nickname: Técnico
-  status: Retirado
-  rank: Caloiro
-  last_name: Carapeto
-  first_name: Filipe
-  photo: default.png
-
-- nickname: Relvas
-  status: Retirado
-  rank: Caloiro
-  last_name: Costa
-  instrument: Guitarra
-  first_name: Gonçalo
-  photo: default.png
-
-- status: Retirado
-  rank: Caloiro
-  last_name: Saraiva
-  instrument: Trombone
-  first_name: Gonçalo
-  photo: default.png
-
-- nickname: Kizomba
-  status: Retirado
-  rank: Caloiro
-  last_name: Silva
-  instrument: Oboé
-  first_name: Hélder
-  photo: default.png
-
-- nickname: Hurley
-  status: Retirado
-  rank: Caloiro
-  last_name: Santos
-  instrument: Pandeireta
-  first_name: Hugo
-  photo: default.png
-
-- status: Retirado
-  rank: Caloiro
-  last_name: Costa
-  instrument: Pandeireta
-  first_name: Ivan
-  photo: default.png
-
-- nickname: Apu
-  status: Retirado
-  rank: Caloiro
-  last_name: Abrantes
-  instrument: Percussão
-  first_name: João
-  photo: default.png
-
-- nickname: Bolhas
-  status: Retirado
-  rank: Caloiro
-  last_name: André
-  instrument: Pandeireta
-  first_name: João
-  photo: default.png
-
-- nickname: BS
-  status: Retirado
-  rank: Caloiro
-  last_name: Calado
-  instrument: Percussão
-  first_name: João
-  photo: default.png
-
-- nickname: Copy
-  status: Retirado
-  rank: Caloiro
-  last_name: Sousa
-  instrument: Pandeireta
-  first_name: João
-  photo: default.png
-
-- nickname: Tablaturas
-  status: Retirado
-  rank: Caloiro
-  last_name: Oliveira
-  instrument: Bandolim
-  first_name: João
-  photo: default.png
-
-- nickname: Ken
-  status: Retirado
-  rank: Caloiro
-  last_name: Esteves
-  instrument: Estandarte
-  first_name: João
-  photo: default.png
-
-- nickname: Mathias
-  status: Retirado
-  rank: Caloiro
-  last_name: Fernandes
-  instrument: Guitarra
-  first_name: João
-  photo: default.png
-
-- nickname: Mini John
-  status: Retirado
-  rank: Caloiro
-  last_name: Lobato
-  instrument: Guitarra
-  first_name: João
-  photo: default.png
-
-- nickname: Savimbi
-  status: Retirado
-  rank: Caloiro
-  last_name: Sousa
-  instrument: Pandeireta
-  first_name: João
-  photo: default.png
-
-- nickname: Shrek
-  status: Retirado
-  rank: Caloiro
-  last_name: Nunes
-  instrument: Cavaquinho
-  first_name: João
-  photo: default.png
-
-- status: Retirado
-  rank: Caloiro
-  last_name: Inácio
-  instrument: Percussão
-  first_name: João
-  photo: default.png
-
-- status: Retirado
-  rank: Caloiro
-  last_name: Galaio
-  instrument: Guitarra
-  first_name: Levi
-  photo: default.png
-
-- nickname: Reka
-  status: Retirado
-  rank: Caloiro
-  last_name: Goncalves
-  instrument: Pandeireta
-  first_name: Luis
-  photo: default.png
-
-- nickname: CopiTrates
-  status: Retirado
-  rank: Caloiro
-  last_name: Pinhão
-  instrument: Guitarra
-  first_name: Luis
-  photo: default.png
-
-- nickname: Carocho
-  status: Retirado
-  rank: Caloiro
-  last_name: Dias
-  instrument: Guitarra
-  first_name: Miguel
-  photo: default.png
-
-- nickname: Tilt
-  status: Retirado
-  rank: Caloiro
-  last_name: Moura
-  instrument: Bandolim
-  first_name: Nuno
-  photo: default.png
-
-- nickname: Beethoven
-  status: Retirado
-  rank: Caloiro
+  nickname: Teco
   last_name: Rodrigues
-  instrument: Percussão
-  first_name: Nuno
-  photo: default.png
+  photo: simao_rodrigues.png
 
-- nickname: Maxi
+- first_name: Tiago
+  rank: Veterano
   status: Retirado
-  rank: Caloiro
-  last_name: Veloso
-  instrument: Percussão
-  first_name: Nuno
-  photo: default.png
-
-- nickname: Ect
-  status: Retirado
-  rank: Caloiro
-  last_name: Sena
-  instrument: Estandarte
-  first_name: Nuno
-  photo: default.png
-
-- nickname: Népias
-  status: Retirado
-  rank: Caloiro
-  last_name: Fernandes
-  instrument: Pandeireta
-  first_name: Nuno
-  photo: default.png
-
-- nickname: Brisa
-  status: Retirado
-  rank: Caloiro
-  last_name: Alves
-  instrument: Pandeireta
-  first_name: Paulo
-  photo: default.png
-
-- nickname: Zé Kalanga
-  status: Retirado
-  rank: Caloiro
-  last_name: Menezes
   instrument: Guitarra
-  first_name: Pedro
-  photo: default.png
-
-- nickname: Castelo
-  status: Retirado
-  rank: Caloiro
-  last_name: Monteiro
-  instrument: Percussão
-  first_name: Pedro
-  photo: default.png
-
-- nickname: Couves
-  status: Retirado
-  rank: Caloiro
-  last_name: Monteiro
-  instrument: Pandeireta
-  first_name: Rafael
-  photo: default.png
-
-- nickname: Leonardo Donatello Miguel Ângelo
-  status: Retirado
-  rank: Caloiro
-  last_name: Nunes
-  first_name: Rafael
-  photo: default.png
-
-- nickname: Plural
-  status: Retirado
-  rank: Caloiro
-  last_name: Sousa
-  instrument: Guitarra
-  first_name: Ricardo
-  photo: default.png
-
-- nickname: Jarbas
-  status: Retirado
-  rank: Caloiro
-  last_name: Santos
-  instrument: Guitarra
-  first_name: Ruben
-  photo: default.png
-
-- nickname: Bloqueado
-  status: Retirado
-  rank: Caloiro
-  last_name: Monteiro
-  instrument: Guitarra
-  first_name: Rúben
-  photo: default.png
-
-- nickname: Cabaço
-  status: Retirado
-  rank: Caloiro
-  last_name: Mendes 
-  first_name: Sergio
-  photo: default.png
-
-- nickname: Projecto Pah
-  status: Retirado
-  rank: Caloiro
-  last_name: Costa
-  instrument: Acordeão
-  first_name: Tiago
-  photo: default.png
-
-- nickname: Ti Maria
-  status: Retirado
-  rank: Caloiro
-  last_name: Rodrigues
-  instrument: Guitarra
-  first_name: Tiago
-  photo: default.png
-
-- nickname: Titi
-  status: Retirado
-  rank: Caloiro
-  last_name: Santos
-  instrument: Voz
-  first_name: Tiago
-  photo: default.png
-
-- nickname: Caloiro
-  status: Retirado
-  rank: Caloiro
-  last_name: Labreca
-  instrument: Trompa
-  first_name: Tiago
-  photo: default.png
-
-- nickname: Mr. Wilson
-  status: Retirado
-  rank: Caloiro
-  last_name: Pinheiro
-  instrument: Estandarte
-  first_name: Wilson
-  photo: default.png
-
-- status: Retirado
-  rank: Caloiro
-  last_name: Bernardino
-  instrument: Guitarra
-  first_name: Zé
-  photo: default.png
-
-- status: Retirado
-  rank: Honorário
-  last_name: Eusébio
-  first_name: Eduardo
-  photo: default.png
-
-- status: Retirado
-  rank: Honorário
-  last_name: Soares
-  first_name: Félix
-  photo: default.png
-
-- nickname: Bigodes
-  status: Retirado
-  rank: Honorário
-  last_name: Silva
-  first_name: José
-  photo: default.png
+  nickname: Telefonista
+  last_name: Pires
+  photo: tiago_pires.png

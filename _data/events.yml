@@ -1,41 +1,41 @@
 - event: Aniversário Continente Amadora
-  location: Amadora
   organizer: Continente Amadora
   date: '2023-07-07'
+  location: Amadora
 
 - event: Cerimónia de Abertura do Campeonato Europeu Universitário de Rugby7
-  location: Estádio Universitário
   organizer: Rugby7
   date: '2023-08-28'
+  location: Estádio Universitário
 
 - event: Festas De Nossa Senhora Da Saúde 2023
-  location: Sintra
   date: '2023-09-07'
+  location: Sintra
 
 - event: Festa da Loira
-  location: Instituto Superior de Engenharia de Lisboa
   organizer: AEISEL
   date: '2023-09-15'
+  location: Instituto Superior de Engenharia de Lisboa
 
 - event: Dia do Idoso
-  location: Hospital de Vila Franca de Xira
   organizer: Hospital de Vila Franca de Xira
   date: '2023-10-01'
+  location: Hospital de Vila Franca de Xira
 
 - event: Missa do Caloiro
-  location: Instituto Superior de Engenharia de Lisboa
   date: '2023-10-03'
+  location: Instituto Superior de Engenharia de Lisboa
 
 - event: Arraial Lusíada 2023
-  location: Monsantos Open Air
   organizer: AAULL
   date: '2023-10-12'
+  location: Monsantos Open Air
 
 - event: III Turbinadas
   organizer: TADeL
   date: '2023-10-28'
 
 - event: Estrelas ao Sábado
-  location: RTP
   organizer: RTP
   date: '2023-12-16'
+  location: RTP
